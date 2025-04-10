@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Roteiro_71_2025.04.10" id="Roteiro_71_2025.04.10">
+	<SimpleField name="Nome" type="string"></SimpleField>
+</Schema>
+<Folder><name>Roteiro_71_2025.04.10</name>
+  <Placemark>
+	<name>ABREULÂNDIA</name>
+      <Point><coordinates>-49.1557,-9.6176</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BARREIRA DO CAMPO</name>
+      <Point><coordinates>-50.2108,-9.2275</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BOA VISTA DO ARAGUAIA</name>
+      <Point><coordinates>-49.2242,-7.3231</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BOM JESUS DO TOCANTINS</name>
+      <Point><coordinates>-48.1578,-8.97</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CANGUSSU</name>
+      <Point><coordinates>-49.9936,-9.9703</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CASEARA</name>
+      <Point><coordinates>-49.9589,-9.27</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CENTENÁRIO</name>
+      <Point><coordinates>-47.3339,-8.9642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>COLINAS DO TOCANTINS</name>
+      <Point><coordinates>-48.4817,-8.0528</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>COLÔNIA</name>
+      <Point><coordinates>-48.8786,-7.8778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DOIS IRMÃOS DO TOCANTINS</name>
+      <Point><coordinates>-49.0642,-9.2572</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA PRIMAVERA</name>
+      <Point><coordinates>-48.4227,-7.5607</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA STA. MARTA DO INAJÁ</name>
+      <Point><coordinates>-50.4442,-8.6603</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GUARAÍ</name>
+      <Point><coordinates>-48.5064,-8.8636</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ITAPORÃ DO TOCANTINS</name>
+      <Point><coordinates>-48.6903,-8.5739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LAGOA DA CONFUSÃO</name>
+      <Point><coordinates>-49.6111,-10.7823</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LIZARDA</name>
+      <Point><coordinates>-46.6766,-9.5995</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MANSINHA</name>
+      <Point><coordinates>-47.326,-9.4592</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MARIANÓPOLIS</name>
+      <Point><coordinates>-49.6564,-9.8011</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PALMEIRANTE</name>
+      <Point><coordinates>-47.9289,-7.8594</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PARAÍSO DO TOCANTINS</name>
+      <Point><coordinates>-48.8909,-10.1658</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PIUM</name>
+      <Point><coordinates>-49.1792,-10.4411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PRÓXIMO BARREIRA DA CRUZ</name>
+      <Point><coordinates>-49.8564,-10.7344</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RECURSOLÂNDIA</name>
+      <Point><coordinates>-47.2421,-8.7342</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>REDENÇÃO</name>
+      <Point><coordinates>-50.0028,-8.0575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TAQUARUSSU DO PORTO</name>
+      <Point><coordinates>-48.1625,-10.3133</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

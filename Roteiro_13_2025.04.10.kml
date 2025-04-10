@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Roteiro_13_2025.04.10" id="Roteiro_13_2025.04.10">
+	<SimpleField name="Nome" type="string"></SimpleField>
+</Schema>
+<Folder><name>Roteiro_13_2025.04.10</name>
+  <Placemark>
+	<name>ÁGUA CLARA</name>
+      <Point><coordinates>-52.9022,-20.4452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AROEIRA - P</name>
+      <Point><coordinates>-54.4253,-21.6472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AROEIRA - F</name>
+      <Point><coordinates>-54.4227,-21.6419</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CAMPOS ELÍSIOS - P</name>
+      <Point><coordinates>-53.2881,-20.9611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CAMPOS ELÍSIOS - F</name>
+      <Point><coordinates>-53.2831,-20.9753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CONFLUÊNCIA RIO JAURU</name>
+      <Point><coordinates>-54.5795,-18.7308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CONTRA VERTENTE</name>
+      <Point><coordinates>-54.5297,-18.7244</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>COXIM - P</name>
+      <Point><coordinates>-54.7556,-18.5042</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>COXIM - F</name>
+      <Point><coordinates>-54.7619,-18.5078</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA DIVISA - P</name>
+      <Point><coordinates>-53.9569,-21.2114</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA DIVISA - F</name>
+      <Point><coordinates>-53.955,-21.2075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA PONTE - P</name>
+      <Point><coordinates>-54.1994,-21.3019</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA PONTE - F</name>
+      <Point><coordinates>-54.2039,-21.3044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GARIMPAGEM</name>
+      <Point><coordinates>-54.5669,-18.7125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PEDRO GOMES - P</name>
+      <Point><coordinates>-54.548,-18.098</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PEDRO GOMES - F</name>
+      <Point><coordinates>-54.4703,-18.1675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RIBAS DO RIO PARDO - P</name>
+      <Point><coordinates>-53.7581,-20.4447</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RIBAS DO RIO PARDO - F</name>
+      <Point><coordinates>-53.7181,-20.4414</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VAU DO BÁLSAMO - P</name>
+      <Point><coordinates>-54.5052,-20.9908</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VAU DO BÁLSAMO - F</name>
+      <Point><coordinates>-54.5072,-20.9942</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

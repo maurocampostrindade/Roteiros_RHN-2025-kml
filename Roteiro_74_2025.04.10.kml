@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Roteiro_74_2025.04.10" id="Roteiro_74_2025.04.10">
+	<SimpleField name="Nome" type="string"></SimpleField>
+</Schema>
+<Folder><name>Roteiro_74_2025.04.10</name>
+  <Placemark>
+	<name>BAÍA NOVA</name>
+      <Point><coordinates>-55.7178,-16.3043</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BOM JARDIM DE GOIÁS</name>
+      <Point><coordinates>-52.1686,-16.2092</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CAFELÂNDIA DO LESTE</name>
+      <Point><coordinates>-53.4535,-16.6681</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA ANJO DA GUARDA</name>
+      <Point><coordinates>-53.4519,-15.5419</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA CAMPO VERDE</name>
+      <Point><coordinates>-55.2342,-14.7777</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA ESTIVA</name>
+      <Point><coordinates>-55.7411,-15.2328</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA RAIZAMA</name>
+      <Point><coordinates>-55.855,-14.8439</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GUIRATINGA</name>
+      <Point><coordinates>-53.7608,-16.3528</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NOSSA SENHORA DA GUIA</name>
+      <Point><coordinates>-56.2317,-15.355</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NOVA BRASILÂNDIA</name>
+      <Point><coordinates>-54.9728,-14.9261</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PARANATINGA</name>
+      <Point><coordinates>-54.0494,-14.4178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PINDAÍBA</name>
+      <Point><coordinates>-52.2375,-15.0356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PONTE BRANCA</name>
+      <Point><coordinates>-52.8372,-16.7664</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RIO DAS MORTES</name>
+      <Point><coordinates>-54.1765,-15.3144</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SANTA EDWIGES</name>
+      <Point><coordinates>-55.1355,-16.6986</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SANTA ESCOLÁSTICA</name>
+      <Point><coordinates>-54.4081,-16.8431</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SANTA LÚCIA</name>
+      <Point><coordinates>-55.9072,-16.8939</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SANTA TEREZINHA</name>
+      <Point><coordinates>-54.2661,-16.6739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SÃO JOSÉ DA SERRA</name>
+      <Point><coordinates>-55.3088,-15.8422</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SECO</name>
+      <Point><coordinates>-56.6115,-15.6355</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VALE RICO</name>
+      <Point><coordinates>-54.1494,-16.3911</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

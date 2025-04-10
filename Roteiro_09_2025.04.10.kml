@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Roteiro_09_2025.04.10" id="Roteiro_09_2025.04.10">
+	<SimpleField name="Nome" type="string"></SimpleField>
+</Schema>
+<Folder><name>Roteiro_09_2025.04.10</name>
+  <Placemark>
+	<name>BRITÂNIA</name>
+      <Point><coordinates>-51.1641,-15.2468</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DUERE</name>
+      <Point><coordinates>-49.2596,-11.3379</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA ÁGUA LIMPA</name>
+      <Point><coordinates>-51.1756,-15.3625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GOVERNADOR LEONINO</name>
+      <Point><coordinates>-50.3328,-14.0972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>JUSANTE RIO PINTADO</name>
+      <Point><coordinates>-50.4011,-13.5614</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PONTE RIO DUERÉ</name>
+      <Point><coordinates>-49.2667,-11.3167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PRAIA ALTA</name>
+      <Point><coordinates>-49.59,-12.4181</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RIO CRIXÁS AÇU</name>
+      <Point><coordinates>-49.9514,-13.8986</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RIO PINTADO</name>
+      <Point><coordinates>-50.185,-13.426</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SANTA FÉ</name>
+      <Point><coordinates>-51.1044,-15.7672</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SANTO ANTÔNIO DO LEVERGER</name>
+      <Point><coordinates>-50.963,-12.2916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SÃO FÉLIX DO ARAGUAIA</name>
+      <Point><coordinates>-50.663,-11.6193</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SÃO MIGUEL DO ARAGUAIA</name>
+      <Point><coordinates>-50.1994,-13.3286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TRECHO MÉDIO</name>
+      <Point><coordinates>-51.6989,-14.0881</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

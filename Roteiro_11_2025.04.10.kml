@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Roteiro_11_2025.04.10" id="Roteiro_11_2025.04.10">
+	<SimpleField name="Nome" type="string"></SimpleField>
+</Schema>
+<Folder><name>Roteiro_11_2025.04.10</name>
+  <Placemark>
+	<name>ARAGOIÂNIA</name>
+      <Point><coordinates>-49.4522,-16.9119</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CACHOEIRA DE GOIÁS</name>
+      <Point><coordinates>-50.6492,-16.6694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CÓRREGO DO OURO</name>
+      <Point><coordinates>-50.5567,-16.2983</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CORUMBAZUL</name>
+      <Point><coordinates>-48.8586,-18.2425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CROMÍNIA</name>
+      <Point><coordinates>-49.3828,-17.285</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>EDÉIA</name>
+      <Point><coordinates>-49.9303,-17.3414</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA MONTE ALEGRE</name>
+      <Point><coordinates>-50.7675,-17.3311</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA NOVA DO TURVO</name>
+      <Point><coordinates>-50.2894,-17.0792</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA PARAÍSO</name>
+      <Point><coordinates>-50.7742,-17.4658</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA SUCURI</name>
+      <Point><coordinates>-49.1047,-16.917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>IPORÁ</name>
+      <Point><coordinates>-51.0828,-16.4281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ISRAELÂNDIA</name>
+      <Point><coordinates>-50.9058,-16.3161</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ITAPIRAPUÃ</name>
+      <Point><coordinates>-50.6101,-15.8163</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>IVOLÂNDIA</name>
+      <Point><coordinates>-50.9961,-16.5125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>JEROAQUARA</name>
+      <Point><coordinates>-50.5011,-15.3748</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>JOVIÂNIA</name>
+      <Point><coordinates>-49.6181,-17.8097</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MARZAGÃO</name>
+      <Point><coordinates>-48.67,-17.9822</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MONTIVIDIU - P</name>
+      <Point><coordinates>-51.0767,-17.3647</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MONTIVIDIU - F</name>
+      <Point><coordinates>-51.0753,-17.3592</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MORRINHOS</name>
+      <Point><coordinates>-49.1153,-17.7328</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PARAÚNA</name>
+      <Point><coordinates>-50.4469,-16.9489</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PIRACANJUBA</name>
+      <Point><coordinates>-49.0272,-17.2894</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PIRANHAS - P</name>
+      <Point><coordinates>-51.8228,-16.4233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PIRANHAS - F</name>
+      <Point><coordinates>-51.8164,-16.4306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PONTALINA</name>
+      <Point><coordinates>-49.4417,-17.5169</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PROFESSOR JAMIL</name>
+      <Point><coordinates>-49.275,-17.2536</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SÃO FERREIRA - P</name>
+      <Point><coordinates>-51.4706,-16.3058</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SÃO FERREIRA - F</name>
+      <Point><coordinates>-51.4692,-16.3025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TRÊS RANCHOS</name>
+      <Point><coordinates>-47.7897,-18.3288</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Roteiro_10_2025.04.10" id="Roteiro_10_2025.04.10">
+	<SimpleField name="Nome" type="string"></SimpleField>
+</Schema>
+<Folder><name>Roteiro_10_2025.04.10</name>
+  <Placemark>
+	<name>ÁGUAS LINDAS</name>
+      <Point><coordinates>-48.3056,-15.7414</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ANICUNS</name>
+      <Point><coordinates>-49.9386,-16.4623</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CAPTAÇÃO JOÃO LEITE</name>
+      <Point><coordinates>-49.2352,-16.613</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CÓRREGO LAMARÃO</name>
+      <Point><coordinates>-47.4773,-15.967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA BOA VISTA - P</name>
+      <Point><coordinates>-49.6908,-17.1056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA BOA VISTA - F</name>
+      <Point><coordinates>-49.6892,-17.1083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA MARAJÁ</name>
+      <Point><coordinates>-48.5539,-15.5419</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GOIANÁPOLIS</name>
+      <Point><coordinates>-49.0188,-16.5169</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GOIANÉSIA</name>
+      <Point><coordinates>-49.1211,-15.3286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GOIÂNIA - SUREG/GO</name>
+      <Point><coordinates>-49.2589,-16.695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>INHUMAS</name>
+      <Point><coordinates>-49.495,-16.3467</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ITABERAÍ</name>
+      <Point><coordinates>-49.8011,-16.0281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ITAPURANGA</name>
+      <Point><coordinates>-49.943,-15.5642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MONTANTE PONTE DF-128</name>
+      <Point><coordinates>-47.6114,-15.5064</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>OURO VERDE DE GOIÁS</name>
+      <Point><coordinates>-49.1978,-16.2186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PALMEIRAS DE GOIÁS</name>
+      <Point><coordinates>-49.9286,-16.8031</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PIRENÓPOLIS</name>
+      <Point><coordinates>-48.95,-15.85</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PONTE ANÁPOLIS-BRASÍLIA</name>
+      <Point><coordinates>-48.5083,-16.0833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RIBEIRÃO DAS CALDAS</name>
+      <Point><coordinates>-48.8972,-16.4577</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RIBEIRÃO EXTREMA</name>
+      <Point><coordinates>-47.4114,-15.8286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RIBEIRÃO JACARÉ</name>
+      <Point><coordinates>-47.3561,-15.6411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RIBEIRÃO SANTA RITA</name>
+      <Point><coordinates>-47.3339,-15.585</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RIO JARDIM</name>
+      <Point><coordinates>-47.4578,-15.9008</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RIO PRETO</name>
+      <Point><coordinates>-47.3197,-15.7264</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RIO SÃO BERNARDO</name>
+      <Point><coordinates>-47.417,-16.0345</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TRINDADE</name>
+      <Point><coordinates>-49.4878,-16.6611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TURVÂNIA</name>
+      <Point><coordinates>-50.1328,-16.6094</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Roteiro_94_2025.04.10" id="Roteiro_94_2025.04.10">
+	<SimpleField name="Nome" type="string"></SimpleField>
+</Schema>
+<Folder><name>Roteiro_94_2025.04.10</name>
+  <Placemark>
+	<name>BARÃO DE MELGAÇO - P</name>
+      <Point><coordinates>-55.9453,-16.1936</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BARÃO DE MELGAÇO - F</name>
+      <Point><coordinates>-55.9669,-16.1928</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BARRA DO BUGRES</name>
+      <Point><coordinates>-57.1818,-15.0761</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BARRANQUINHO</name>
+      <Point><coordinates>-57.475,-15.6422</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CÁCERES</name>
+      <Point><coordinates>-57.7022,-16.0758</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>COLÔNIA RIO BRANCO</name>
+      <Point><coordinates>-58.1133,-15.2453</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DESCALVADOS</name>
+      <Point><coordinates>-57.7503,-16.7336</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DESTACAMENTO DA CORIXA</name>
+      <Point><coordinates>-58.3389,-16.3944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FLECHAS</name>
+      <Point><coordinates>-57.2575,-16.0392</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PORTO CONCEIÇÃO</name>
+      <Point><coordinates>-57.3594,-17.1433</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PORTO LIMÃO</name>
+      <Point><coordinates>-58.0092,-16.1469</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SANTO ANTONIO DO LEVERGER</name>
+      <Point><coordinates>-56.078,-15.87</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

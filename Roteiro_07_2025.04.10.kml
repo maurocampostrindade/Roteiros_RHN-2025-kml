@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Roteiro_07_2025.04.10" id="Roteiro_07_2025.04.10">
+	<SimpleField name="Nome" type="string"></SimpleField>
+</Schema>
+<Folder><name>Roteiro_07_2025.04.10</name>
+  <Placemark>
+	<name>ARAGUACEMA</name>
+      <Point><coordinates>-49.5551,-8.8033</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CACHOEIRA MONTE LINDO</name>
+      <Point><coordinates>-46.9269,-7.9939</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CAMPOS LINDOS</name>
+      <Point><coordinates>-46.7975,-7.9625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CAROLINA</name>
+      <Point><coordinates>-47.4656,-7.3233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CONCEIÇÃO DO ARAGUAIA</name>
+      <Point><coordinates>-49.2594,-8.2694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GOIATINS - P</name>
+      <Point><coordinates>-47.315,-7.7147</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GOIATINS - F</name>
+      <Point><coordinates>-47.1843,-7.423</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ITACAJÁ - P</name>
+      <Point><coordinates>-47.7708,-8.3947</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ITACAJÁ - F</name>
+      <Point><coordinates>-47.7661,-8.3919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>JACARÉ</name>
+      <Point><coordinates>-47.2611,-7.9633</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PONTE RIO PIRANHAS</name>
+      <Point><coordinates>-49.3778,-9.1842</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RIO DO COCO</name>
+      <Point><coordinates>-49.9831,-9.5003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RIO ITAPECURU</name>
+      <Point><coordinates>-47.3922,-7.4619</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TUPIRATINS - P</name>
+      <Point><coordinates>-48.1303,-8.3992</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TUPIRATINS - F</name>
+      <Point><coordinates>-48.1114,-8.3917</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

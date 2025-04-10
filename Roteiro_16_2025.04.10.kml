@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Roteiro_16_2025.04.10" id="Roteiro_16_2025.04.10">
+	<SimpleField name="Nome" type="string"></SimpleField>
+</Schema>
+<Folder><name>Roteiro_16_2025.04.10</name>
+  <Placemark>
+	<name>AMOLAR - P</name>
+      <Point><coordinates>-57.4908,-18.0403</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AMOLAR - F</name>
+      <Point><coordinates>-57.4886,-18.0386</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BELA VISTA DO NORTE</name>
+      <Point><coordinates>-57.6906,-17.6414</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BODOQUENA</name>
+      <Point><coordinates>-56.9836,-19.8708</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ENTRE RIOS</name>
+      <Point><coordinates>-56.2828,-19.6967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FORTE COIMBRA</name>
+      <Point><coordinates>-57.7894,-19.9186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GUAICURUS</name>
+      <Point><coordinates>-56.7953,-20.1019</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LADÁRIO</name>
+      <Point><coordinates>-57.5942,-19.0017</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MIRANDA - P</name>
+      <Point><coordinates>-56.3683,-20.2414</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MIRANDA - F</name>
+      <Point><coordinates>-56.3991,-20.2408</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PIRAPUTANGA</name>
+      <Point><coordinates>-57.5933,-19.3053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PORTO CIRÍACO</name>
+      <Point><coordinates>-56.2811,-19.6986</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PORTO DA MANGA</name>
+      <Point><coordinates>-57.2353,-19.2583</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PORTO ESPERANÇA</name>
+      <Point><coordinates>-57.4381,-19.6008</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SÃO FRANCISCO - P</name>
+      <Point><coordinates>-57.3911,-18.3939</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SÃO FRANCISCO - F</name>
+      <Point><coordinates>-57.3783,-18.3918</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SÃO SIMÃO</name>
+      <Point><coordinates>-57.3214,-20.0497</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

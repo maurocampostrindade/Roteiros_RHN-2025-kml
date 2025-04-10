@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Roteiro_12_2025.04.10" id="Roteiro_12_2025.04.10">
+	<SimpleField name="Nome" type="string"></SimpleField>
+</Schema>
+<Folder><name>Roteiro_12_2025.04.10</name>
+  <Placemark>
+	<name>APORÉ</name>
+      <Point><coordinates>-51.9278,-18.967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BARRA DO PRATA</name>
+      <Point><coordinates>-52.5947,-18.6895</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CACHOEIRA ALTA</name>
+      <Point><coordinates>-50.8503,-18.9097</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CAMPO ALEGRE - P</name>
+      <Point><coordinates>-51.0931,-18.5178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CAMPO ALEGRE - F</name>
+      <Point><coordinates>-52.0962,-18.516</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CANASTRA</name>
+      <Point><coordinates>-51.1494,-19.1</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CASSILÂNDIA</name>
+      <Point><coordinates>-51.7208,-19.1075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA ALIANÇA</name>
+      <Point><coordinates>-50.0314,-18.1047</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA FORMOSO - P</name>
+      <Point><coordinates>-52.5269,-18.4067</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA FORMOSO - F</name>
+      <Point><coordinates>-52.5325,-18.4067</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA PINDORAMA</name>
+      <Point><coordinates>-51.6089,-19.3908</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>INDAIÁ GRANDE</name>
+      <Point><coordinates>-52.5923,-18.9856</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ITAJÁ - P</name>
+      <Point><coordinates>-51.5344,-19.1364</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ITAJÁ - F</name>
+      <Point><coordinates>-51.5336,-19.1397</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ITARUMÃ</name>
+      <Point><coordinates>-51.3472,-18.7647</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PONTE RIO VERDÃO</name>
+      <Point><coordinates>-50.5561,-17.5414</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PORTO GALEANO - P</name>
+      <Point><coordinates>-52.1603,-20.0939</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PORTO GALEANO - F</name>
+      <Point><coordinates>-52.1497,-20.0944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>QUIRINÓPOLIS</name>
+      <Point><coordinates>-50.5219,-18.5011</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Roteiro_03_2025.04.10" id="Roteiro_03_2025.04.10">
+	<SimpleField name="Nome" type="string"></SimpleField>
+</Schema>
+<Folder><name>Roteiro_03_2025.04.10</name>
+  <Placemark>
+	<name>ALDEIA SACRE II - P</name>
+      <Point><coordinates>-58.192,-13.028</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ALDEIA SACRE II - F</name>
+      <Point><coordinates>-58.1853,-13.0264</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BACAVAL</name>
+      <Point><coordinates>-58.2892,-13.6414</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BRASFOR</name>
+      <Point><coordinates>-58.2344,-14.3842</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BRASNORTE</name>
+      <Point><coordinates>-58.0003,-12.1164</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CAMPO NOVO DO PARECIS</name>
+      <Point><coordinates>-57.8944,-13.6922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CASTANHEIRA</name>
+      <Point><coordinates>-58.6161,-11.14</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>COLNIZA</name>
+      <Point><coordinates>-59.2241,-9.4561</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>COTRIGUAÇU</name>
+      <Point><coordinates>-58.5642,-9.9133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA FLORESTA</name>
+      <Point><coordinates>-58.0703,-12.8675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA TOMBADOR</name>
+      <Point><coordinates>-58.0472,-11.7178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA TUCUNARÉ - P</name>
+      <Point><coordinates>-58.975,-13.4667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA TUCUNARÉ - F</name>
+      <Point><coordinates>-59.0019,-13.4567</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FONTANILLAS - P</name>
+      <Point><coordinates>-58.3383,-11.3417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FONTANILLAS - F</name>
+      <Point><coordinates>-58.3428,-11.3583</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HUMBOLDT</name>
+      <Point><coordinates>-59.4517,-10.1753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>JUARA</name>
+      <Point><coordinates>-57.5067,-11.2531</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>JUÍNA</name>
+      <Point><coordinates>-58.7186,-11.4081</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>JURUENA</name>
+      <Point><coordinates>-58.5008,-10.3125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NOVO TANGARÁ</name>
+      <Point><coordinates>-58.8033,-10.8342</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NÚCLEO ARIEL</name>
+      <Point><coordinates>-58.2489,-9.8564</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>OLHO D'ÁGUA</name>
+      <Point><coordinates>-57.0419,-11.715</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PORTO DOS GAÚCHOS - P</name>
+      <Point><coordinates>-57.4172,-11.5358</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PORTO DOS GAÚCHOS - F</name>
+      <Point><coordinates>-57.4236,-11.5367</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PRÓXIMO ILHOCA</name>
+      <Point><coordinates>-57.925,-14.5847</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RIO ARINOS</name>
+      <Point><coordinates>-58.0039,-10.6397</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RIO DOS PEIXES</name>
+      <Point><coordinates>-57.7272,-10.8231</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SPERAFICO</name>
+      <Point><coordinates>-58.8981,-13.91</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TABAPORÃ</name>
+      <Point><coordinates>-56.825,-11.3047</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VALE DO NATAL</name>
+      <Point><coordinates>-58.8678,-10.5886</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

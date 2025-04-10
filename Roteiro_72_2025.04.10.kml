@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Roteiro_72_2025.04.10" id="Roteiro_72_2025.04.10">
+	<SimpleField name="Nome" type="string"></SimpleField>
+</Schema>
+<Folder><name>Roteiro_72_2025.04.10</name>
+  <Placemark>
+	<name>ALTO PARAÍSO DE GOIÁS</name>
+      <Point><coordinates>-47.5117,-14.1347</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ALVORADA</name>
+      <Point><coordinates>-49.1244,-12.4836</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CAMPINAÇU</name>
+      <Point><coordinates>-48.5669,-13.79</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CAMPOS BELOS</name>
+      <Point><coordinates>-46.7769,-13.0367</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CONCEIÇÃO DO TOCANTINS</name>
+      <Point><coordinates>-47.3244,-12.2325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FÁTIMA</name>
+      <Point><coordinates>-48.9022,-10.7636</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA SANTA RITA</name>
+      <Point><coordinates>-47.4867,-12.585</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GURUPI</name>
+      <Point><coordinates>-49.1361,-11.7372</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MIMOSO</name>
+      <Point><coordinates>-48.1664,-15.0631</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MOQUEM</name>
+      <Point><coordinates>-48.1653,-14.5489</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NIQUELÂNDIA</name>
+      <Point><coordinates>-48.4583,-14.475</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PALMEIRINHA</name>
+      <Point><coordinates>-48.6111,-14.0222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PALMEIRÓPOLIS</name>
+      <Point><coordinates>-48.4069,-13.0419</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PINDORAMA DO TOCANTINS</name>
+      <Point><coordinates>-47.5767,-11.1403</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PONTE ALTA DO TOCANTINS</name>
+      <Point><coordinates>-47.5361,-10.7508</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PONTE PARANÃ</name>
+      <Point><coordinates>-47.1392,-13.4253</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PORTO GILÂNDIA</name>
+      <Point><coordinates>-47.7649,-10.7551</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PROJETO RIO FORMOSO</name>
+      <Point><coordinates>-49.5713,-11.8085</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RIO DA PALMA</name>
+      <Point><coordinates>-47.1997,-12.4156</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SÃO JOÃO D'ALIANÇA</name>
+      <Point><coordinates>-47.5236,-14.7072</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TROMBAS</name>
+      <Point><coordinates>-48.745,-13.5128</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

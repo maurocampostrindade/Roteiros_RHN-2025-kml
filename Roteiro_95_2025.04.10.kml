@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Roteiro_95_2025.04.10" id="Roteiro_95_2025.04.10">
+	<SimpleField name="Nome" type="string"></SimpleField>
+</Schema>
+<Folder><name>Roteiro_95_2025.04.10</name>
+  <Placemark>
+	<name>CAPTAÇÃO DA SANEAGO</name>
+      <Point><coordinates>-47.9425,-16.0647</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA ELDORADO</name>
+      <Point><coordinates>-47.1259,-15.6837</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA ESPÍRITO SANTO</name>
+      <Point><coordinates>-47.3817,-15.3222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA LOBEIRA - P</name>
+      <Point><coordinates>-48.2947,-11.5314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA LOBEIRA - F</name>
+      <Point><coordinates>-48.2886,-11.5319</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FLORES DE GOIÁS</name>
+      <Point><coordinates>-47.0462,-14.4566</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>JUSANTE DE GOIÂNIA</name>
+      <Point><coordinates>-49.1964,-16.6811</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LAGOA FORMOSA</name>
+      <Point><coordinates>-47.02,-15.9211</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MONTANTE DE GOIÂNIA</name>
+      <Point><coordinates>-49.2797,-16.6136</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NOVA ROMA - P</name>
+      <Point><coordinates>-46.8775,-13.7425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NOVA ROMA - F</name>
+      <Point><coordinates>-46.8375,-13.7625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PIPIRIPAU</name>
+      <Point><coordinates>-47.5456,-15.6144</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PORTO JERÔNIMO</name>
+      <Point><coordinates>-47.8364,-11.7586</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RIBEIRÃO FORMOSA</name>
+      <Point><coordinates>-47.1181,-15.9514</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

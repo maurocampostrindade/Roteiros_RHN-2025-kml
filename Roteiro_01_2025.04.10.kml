@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Roteiro_01_2025.04.10" id="Roteiro_01_2025.04.10">
+	<SimpleField name="Nome" type="string"></SimpleField>
+</Schema>
+<Folder><name>Roteiro_01_2025.04.10</name>
+  <Placemark>
+	<name>ILHA CAMARGO</name>
+      <Point><coordinates>-56.586,-17.057</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NOSSA SRA. DO LIVRAMENTO</name>
+      <Point><coordinates>-56.3497,-15.7739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POCONÉ</name>
+      <Point><coordinates>-56.5949,-16.2853</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PORTO CERCADO</name>
+      <Point><coordinates>-56.3756,-16.5119</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PORTO DO ALEGRE</name>
+      <Point><coordinates>-56.965,-17.624</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POUSADA TAIAMÃ - P</name>
+      <Point><coordinates>-56.7725,-17.3683</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POUSADA TAIAMÃ - F</name>
+      <Point><coordinates>-56.7747,-17.3656</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SÃO JERÔNIMO - P</name>
+      <Point><coordinates>-55.9919,-17.2017</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SÃO JERÔNIMO - F</name>
+      <Point><coordinates>-56.0086,-17.2017</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SÃO JOÃO</name>
+      <Point><coordinates>-56.6319,-16.9442</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SÃO JOSÉ DO BORIRÉU - P</name>
+      <Point><coordinates>-56.2236,-16.9211</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SÃO JOSÉ DO BORIRÉU - F</name>
+      <Point><coordinates>-56.2236,-16.9253</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SÃO JOSÉ DO PIQUIRI - P</name>
+      <Point><coordinates>-56.385,-17.291</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SÃO JOSÉ DO PIQUIRI - F</name>
+      <Point><coordinates>-56.3872,-17.2917</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

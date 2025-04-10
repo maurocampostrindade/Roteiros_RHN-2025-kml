@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Roteiro_77_2025.04.10" id="Roteiro_77_2025.04.10">
+	<SimpleField name="Nome" type="string"></SimpleField>
+</Schema>
+<Folder><name>Roteiro_77_2025.04.10</name>
+  <Placemark>
+	<name>ALEGRE</name>
+      <Point><coordinates>-54.0967,-20.4708</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AMAMBAÍ</name>
+      <Point><coordinates>-55.241,-23.0978</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ANAURILÂNDIA</name>
+      <Point><coordinates>-52.7133,-22.1864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>APARECIDA DO TABOADO</name>
+      <Point><coordinates>-51.1036,-20.0683</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BATAIPORÃ</name>
+      <Point><coordinates>-53.2803,-22.2986</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BOCAJÁ</name>
+      <Point><coordinates>-55.2422,-22.7319</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CAARAPÓ</name>
+      <Point><coordinates>-54.8247,-22.6244</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CAPÃO BONITO</name>
+      <Point><coordinates>-54.7461,-21.1828</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CORONEL SAPUCAIA</name>
+      <Point><coordinates>-55.5247,-23.2663</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA BOA ESPERANÇA</name>
+      <Point><coordinates>-52.2881,-21.2494</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA MIMOSINHO</name>
+      <Point><coordinates>-52.9936,-21.0697</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GARCIAS</name>
+      <Point><coordinates>-52.2183,-20.6028</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GLÓRIA DE DOURADOS</name>
+      <Point><coordinates>-54.2323,-22.4071</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LANCEIRO</name>
+      <Point><coordinates>-53.5369,-21.0228</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MARACAJÚ</name>
+      <Point><coordinates>-55.1369,-21.6186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PORTO RIO BRILHANTE</name>
+      <Point><coordinates>-54.6031,-21.8061</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PORTO UERÊ</name>
+      <Point><coordinates>-52.3342,-21.7258</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PORTO VELHO</name>
+      <Point><coordinates>-52.4401,-20.7807</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RETIRO GUARUJÁ</name>
+      <Point><coordinates>-54.0804,-21.8715</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SELVÍRIA</name>
+      <Point><coordinates>-51.4239,-20.3636</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SIDROLÂNDIA</name>
+      <Point><coordinates>-54.9717,-20.9514</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>USINA MIMOSO</name>
+      <Point><coordinates>-53.5714,-20.6769</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>XAVANTE</name>
+      <Point><coordinates>-53.4388,-21.9822</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>XAVANTINA DO SUL</name>
+      <Point><coordinates>-52.8106,-21.2953</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

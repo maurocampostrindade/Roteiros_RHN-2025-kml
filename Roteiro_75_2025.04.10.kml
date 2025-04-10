@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Roteiro_75_2025.04.10" id="Roteiro_75_2025.04.10">
+	<SimpleField name="Nome" type="string"></SimpleField>
+</Schema>
+<Folder><name>Roteiro_75_2025.04.10</name>
+  <Placemark>
+	<name>ALTO GARÇAS</name>
+      <Point><coordinates>-53.5336,-16.9442</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ALTO SUCURIÚ</name>
+      <Point><coordinates>-52.5583,-19.4442</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÁRVORE GRANDE</name>
+      <Point><coordinates>-51.8864,-19.2107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BENJAMIN  BARROS</name>
+      <Point><coordinates>-51.8922,-17.695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BOM JARDIM</name>
+      <Point><coordinates>-52.17,-17.7181</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CACHOEIRA PÓLVORA</name>
+      <Point><coordinates>-54.2578,-18.1906</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CAIAPÔNIA</name>
+      <Point><coordinates>-51.8106,-16.9494</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CIDADE CHAPADÃO GAÚCHO</name>
+      <Point><coordinates>-52.6013,-18.6913</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>COLÔNIA FIGUEIRÃO</name>
+      <Point><coordinates>-53.6378,-18.6797</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>COSTA RICA</name>
+      <Point><coordinates>-53.1353,-18.5472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA RIO VERDE</name>
+      <Point><coordinates>-52.9258,-20.1019</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA SÃO BERNARDO</name>
+      <Point><coordinates>-52.9833,-17.6889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA TAQUARI</name>
+      <Point><coordinates>-53.2889,-17.8114</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FURLANETO</name>
+      <Point><coordinates>-53.4908,-19.2722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>INOCÊNCIA</name>
+      <Point><coordinates>-51.9336,-19.7364</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MORANGAS</name>
+      <Point><coordinates>-52.1664,-19.5536</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PEDRO SEVERO</name>
+      <Point><coordinates>-54.3131,-17.8308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POMBAL</name>
+      <Point><coordinates>-51.4969,-18.0931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PONTAL</name>
+      <Point><coordinates>-52.8964,-19.6781</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PONTE RIO DOCE</name>
+      <Point><coordinates>-51.3967,-17.8564</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTO CORRENTES (MT-163)</name>
+      <Point><coordinates>-54.7567,-17.5869</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SANTO ANTÔNIO DO PARAÍSO</name>
+      <Point><coordinates>-55.2322,-17.4917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SERRANÓPOLIS</name>
+      <Point><coordinates>-51.9622,-18.3044</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

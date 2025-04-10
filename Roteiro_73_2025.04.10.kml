@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Roteiro_73_2025.04.10" id="Roteiro_73_2025.04.10">
+	<SimpleField name="Nome" type="string"></SimpleField>
+</Schema>
+<Folder><name>Roteiro_73_2025.04.10</name>
+  <Placemark>
+	<name>ARAGUAÇU</name>
+      <Point><coordinates>-49.8294,-12.9311</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BATE PAPO</name>
+      <Point><coordinates>-51.3764,-11.6747</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CRIXÁS</name>
+      <Point><coordinates>-49.9628,-14.5325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ENTRONCAMENTO SÃO MIGUEL</name>
+      <Point><coordinates>-49.2014,-13.1028</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ESTRELA DO NORTE</name>
+      <Point><coordinates>-49.0714,-13.8725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA PIRATININGA</name>
+      <Point><coordinates>-50.3361,-12.8206</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA SANTA CRUZ</name>
+      <Point><coordinates>-50.8072,-11.2203</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LAGOA DA FLECHA</name>
+      <Point><coordinates>-50.7305,-14.3331</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LUCIARA</name>
+      <Point><coordinates>-50.6678,-11.2183</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MOZARLÂNDIA</name>
+      <Point><coordinates>-50.5772,-14.78</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NOVA AMÉRICA</name>
+      <Point><coordinates>-49.8926,-15.0211</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NOVO PLANALTO</name>
+      <Point><coordinates>-49.5076,-13.2436</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PILAR DE GOIÁS</name>
+      <Point><coordinates>-49.5808,-14.7615</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PORANGATU</name>
+      <Point><coordinates>-49.1564,-13.4097</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PORTO ALEGRE DO NORTE</name>
+      <Point><coordinates>-51.6312,-10.8756</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PORTO URUAÇU</name>
+      <Point><coordinates>-49.1394,-14.5553</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SANDOLÂNDIA</name>
+      <Point><coordinates>-49.9319,-12.5336</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SANTA TEREZINHA</name>
+      <Point><coordinates>-50.5125,-10.4611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SANTA TEREZINHA DE GOIÁS</name>
+      <Point><coordinates>-49.7167,-14.4336</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VILA BERRANTE</name>
+      <Point><coordinates>-51.0194,-12.805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VILA MANDII</name>
+      <Point><coordinates>-50.8541,-9.5373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VILA RICA</name>
+      <Point><coordinates>-51.1227,-10.0188</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

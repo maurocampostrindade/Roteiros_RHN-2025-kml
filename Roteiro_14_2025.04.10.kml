@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Roteiro_14_2025.04.10" id="Roteiro_14_2025.04.10">
+	<SimpleField name="Nome" type="string"></SimpleField>
+</Schema>
+<Folder><name>Roteiro_14_2025.04.10</name>
+  <Placemark>
+	<name>COLÔNIA BOM JESUS</name>
+      <Point><coordinates>-54.3936,-23.4497</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DELFINO COSTA</name>
+      <Point><coordinates>-53.0533,-21.6097</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DOURADOS - P</name>
+      <Point><coordinates>-54.793,-22.3966</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DOURADOS - F</name>
+      <Point><coordinates>-54.7919,-22.3983</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA BARRA GRANDE</name>
+      <Point><coordinates>-53.6192,-21.5728</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA BURITI</name>
+      <Point><coordinates>-52.8675,-21.6633</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA IPACARAÍ</name>
+      <Point><coordinates>-53.7686,-21.9572</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA JANGADA - P</name>
+      <Point><coordinates>-54.0286,-22.5486</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA JANGADA - F</name>
+      <Point><coordinates>-54.0255,-22.5461</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA VACA BRANCA</name>
+      <Point><coordinates>-53.82,-23.0728</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>IGUATEMI</name>
+      <Point><coordinates>-54.5623,-23.6819</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ITAPORÃ</name>
+      <Point><coordinates>-54.7839,-22.0747</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NAVIRAÍ - P</name>
+      <Point><coordinates>-54.1951,-23.0578</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NAVIRAÍ - F</name>
+      <Point><coordinates>-54.1969,-23.1338</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PASSAGEM RIBEIRÃO LONTRA - P</name>
+      <Point><coordinates>-53.6133,-21.4094</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PASSAGEM RIBEIRÃO LONTRA - F</name>
+      <Point><coordinates>-53.619,-21.4114</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PONTE RIO AMAMBAI</name>
+      <Point><coordinates>-55.2211,-22.9427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PORTO PINDAÍBA</name>
+      <Point><coordinates>-53.0522,-21.6153</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PORTO SÃO DOMINGOS</name>
+      <Point><coordinates>-55.3922,-23.6502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PORTO WILMA</name>
+      <Point><coordinates>-54.2291,-22.0691</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TACURU</name>
+      <Point><coordinates>-55.0066,-23.6358</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

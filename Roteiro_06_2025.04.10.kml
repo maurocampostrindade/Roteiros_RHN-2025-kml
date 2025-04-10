@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Roteiro_06_2025.04.10" id="Roteiro_06_2025.04.10">
+	<SimpleField name="Nome" type="string"></SimpleField>
+</Schema>
+<Folder><name>Roteiro_06_2025.04.10</name>
+  <Placemark>
+	<name>ANANÁS</name>
+      <Point><coordinates>-48.0725,-6.3639</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ARAGUATINS - P</name>
+      <Point><coordinates>-48.125,-5.6483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ARAGUATINS - F</name>
+      <Point><coordinates>-48.1297,-5.6344</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DESCARRETO</name>
+      <Point><coordinates>-47.4689,-5.7894</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ESPERANTINA</name>
+      <Point><coordinates>-48.5386,-5.3622</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MAURILÂNDIA DO TOCANTINS</name>
+      <Point><coordinates>-47.5122,-5.9522</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MONTANTE RIO RONCA</name>
+      <Point><coordinates>-48.1997,-6.0428</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MURICILÂNDIA - P</name>
+      <Point><coordinates>-48.6031,-7.1546</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MURICILÂNDIA - F</name>
+      <Point><coordinates>-48.6111,-7.1458</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PIRAQUÊ</name>
+      <Point><coordinates>-48.4703,-6.6722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PORTO LEMOS</name>
+      <Point><coordinates>-49.0986,-6.8692</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RIO ITAUEIRAS</name>
+      <Point><coordinates>-47.3036,-6.5353</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SÃO SEBASTIÃO DO TOCANTINS</name>
+      <Point><coordinates>-48.2069,-5.2597</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TOCANTINÓPOLIS</name>
+      <Point><coordinates>-47.3919,-6.2886</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>WANDERLÂNDIA</name>
+      <Point><coordinates>-47.9706,-6.8392</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>XAMBIOÁ - P</name>
+      <Point><coordinates>-48.5333,-6.4131</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>XAMBIOÁ - F</name>
+      <Point><coordinates>-48.536,-6.413</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

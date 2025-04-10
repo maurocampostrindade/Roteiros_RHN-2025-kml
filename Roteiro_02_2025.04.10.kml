@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Roteiro_02_2025.04.10" id="Roteiro_02_2025.04.10">
+	<SimpleField name="Nome" type="string"></SimpleField>
+</Schema>
+<Folder><name>Roteiro_02_2025.04.10</name>
+  <Placemark>
+	<name>ÁGUA SUJA</name>
+      <Point><coordinates>-58.5997,-15.4997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ALTO JAURÚ</name>
+      <Point><coordinates>-58.5878,-15.44</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ARENÁPOLIS</name>
+      <Point><coordinates>-56.85,-14.4694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DECIOLÂNDIA</name>
+      <Point><coordinates>-57.5069,-14.1833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DESTACAMENTO DA FORTUNA</name>
+      <Point><coordinates>-59.4919,-16.2708</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ESTRADA MT-125</name>
+      <Point><coordinates>-57.8936,-15.4686</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA AREIÃO</name>
+      <Point><coordinates>-60.0317,-15.4003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MARZARGÃO</name>
+      <Point><coordinates>-55.8489,-14.5417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MATO GROSSO - P</name>
+      <Point><coordinates>-59.9492,-15.0081</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MATO GROSSO - F</name>
+      <Point><coordinates>-59.9581,-15.0092</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NORTELÂNDIA</name>
+      <Point><coordinates>-56.8142,-14.4511</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NOVA LACERDA</name>
+      <Point><coordinates>-59.5939,-14.4694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PADRONAL</name>
+      <Point><coordinates>-59.8781,-13.1811</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PARECIS</name>
+      <Point><coordinates>-56.9331,-14.1564</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PONTE CABAÇAL MT-125</name>
+      <Point><coordinates>-57.8942,-15.4692</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PONTES E LACERDA - P</name>
+      <Point><coordinates>-59.3503,-15.2243</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PONTES E LACERDA - F</name>
+      <Point><coordinates>-59.3539,-15.2153</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PORTO ESPERIDIÃO - P</name>
+      <Point><coordinates>-58.4658,-15.8533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PORTO ESPERIDIÃO - F</name>
+      <Point><coordinates>-58.4628,-15.8517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SÃO JOSÉ DO SEPOTUBA - P</name>
+      <Point><coordinates>-57.8106,-15.0933</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SÃO JOSÉ DO SEPOTUBA - F</name>
+      <Point><coordinates>-57.6844,-15.0933</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TANGARÁ DA SERRA</name>
+      <Point><coordinates>-57.4683,-14.6308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TAPIRAPUÃ</name>
+      <Point><coordinates>-57.7678,-14.8506</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VILA ALEGRE</name>
+      <Point><coordinates>-59.7675,-13.7781</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

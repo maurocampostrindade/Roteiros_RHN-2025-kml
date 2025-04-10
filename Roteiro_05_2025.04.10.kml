@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Roteiro_05_2025.04.10" id="Roteiro_05_2025.04.10">
+	<SimpleField name="Nome" type="string"></SimpleField>
+</Schema>
+<Folder><name>Roteiro_05_2025.04.10</name>
+  <Placemark>
+	<name>ACIMA CÓRREGO GRANDE</name>
+      <Point><coordinates>-55.2064,-16.6081</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ALTO ARAGUAIA</name>
+      <Point><coordinates>-53.2194,-17.3</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DOVERLÂNDIA</name>
+      <Point><coordinates>-52.3211,-16.7217</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA BABILÔNIA</name>
+      <Point><coordinates>-53.0919,-17.3528</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GENERAL CARNEIRO</name>
+      <Point><coordinates>-52.7544,-15.7111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ITIQUIRA</name>
+      <Point><coordinates>-54.1444,-17.2058</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>JACIARA</name>
+      <Point><coordinates>-54.9683,-15.9889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>JARUDORE</name>
+      <Point><coordinates>-54.3003,-16.1969</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MONTANTE RIB. BABILÔNIA</name>
+      <Point><coordinates>-53.1608,-17.2192</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PONTE DO CEDRO - P</name>
+      <Point><coordinates>-52.6014,-17.5794</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PONTE DO CEDRO - F</name>
+      <Point><coordinates>-52.603,-17.5776</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RIO DO PEIXE</name>
+      <Point><coordinates>-52.3322,-16.7186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RONDONÓPOLIS - P</name>
+      <Point><coordinates>-54.6539,-16.4811</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RONDONÓPOLIS - F</name>
+      <Point><coordinates>-54.6567,-16.4714</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SÃO LOURENÇO DE FÁTIMA</name>
+      <Point><coordinates>-54.9236,-16.3114</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TESOURO - P</name>
+      <Point><coordinates>-53.5545,-16.086</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TESOURO - F</name>
+      <Point><coordinates>-53.5489,-16.0778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TORIQUEJE</name>
+      <Point><coordinates>-53.0554,-15.2501</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TORIXORÉU</name>
+      <Point><coordinates>-52.55,-16.2014</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

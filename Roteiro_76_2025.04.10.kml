@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Roteiro_76_2025.04.10" id="Roteiro_76_2025.04.10">
+	<SimpleField name="Nome" type="string"></SimpleField>
+</Schema>
+<Folder><name>Roteiro_76_2025.04.10</name>
+  <Placemark>
+	<name>BANDEIRANTES</name>
+      <Point><coordinates>-54.3586,-19.9178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BONITO</name>
+      <Point><coordinates>-56.48,-21.1183</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CAMAPUÃ</name>
+      <Point><coordinates>-53.9967,-19.534</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CIPOLÂNDIA</name>
+      <Point><coordinates>-55.3933,-20.1278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA CARANDÁ</name>
+      <Point><coordinates>-54.1611,-19.3222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA LAJEADO</name>
+      <Point><coordinates>-55.4453,-20.2922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>IGUAÇU</name>
+      <Point><coordinates>-55.7944,-19.9447</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>JARAGUÁ</name>
+      <Point><coordinates>-54.8114,-20.4931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>JARAGUARI</name>
+      <Point><coordinates>-54.4347,-20.1022</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>JARDIM</name>
+      <Point><coordinates>-56.0908,-21.4406</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>JAURU</name>
+      <Point><coordinates>-54.3578,-18.6495</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NIOAQUE</name>
+      <Point><coordinates>-55.825,-21.1492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RIO NEGRO</name>
+      <Point><coordinates>-54.9833,-19.4397</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RIO VERDE DE MATO GROSSO</name>
+      <Point><coordinates>-54.8322,-18.91</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ROCHEDO</name>
+      <Point><coordinates>-54.8928,-19.9525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SANTA ELISA</name>
+      <Point><coordinates>-54.8669,-20.4906</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SANTA OTÍLIA</name>
+      <Point><coordinates>-57.0392,-21.1919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SANTA ROSA</name>
+      <Point><coordinates>-56.9881,-21.0318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TABOCO</name>
+      <Point><coordinates>-55.6453,-20.0703</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VISTA ALEGRE</name>
+      <Point><coordinates>-53.9633,-19.7841</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

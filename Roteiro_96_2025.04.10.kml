@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Roteiro_96_2025.04.10" id="Roteiro_96_2025.04.10">
+	<SimpleField name="Nome" type="string"></SimpleField>
+</Schema>
+<Folder><name>Roteiro_96_2025.04.10</name>
+  <Placemark>
+	<name>BARREIRA DA CRUZ - P</name>
+      <Point><coordinates>-49.9333,-10.56</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BARREIRA DA CRUZ - F</name>
+      <Point><coordinates>-49.936,-10.5646</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BARREIRA DO PEQUI</name>
+      <Point><coordinates>-49.9475,-12.0986</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>COLONHA</name>
+      <Point><coordinates>-48.7135,-12.3906</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA COBRAPE</name>
+      <Point><coordinates>-50.0052,-11.4653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA DOIS RIOS</name>
+      <Point><coordinates>-49.9616,-10.7866</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>JACINTO</name>
+      <Point><coordinates>-48.6576,-11.9824</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PEIXE</name>
+      <Point><coordinates>-48.5328,-12.0231</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PROJETO RIO FORMOSO</name>
+      <Point><coordinates>-49.7713,-11.8396</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

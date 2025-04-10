@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Roteiro_15_2025.04.10" id="Roteiro_15_2025.04.10">
+	<SimpleField name="Nome" type="string"></SimpleField>
+</Schema>
+<Folder><name>Roteiro_15_2025.04.10</name>
+  <Placemark>
+	<name>ALTO RIO VERDE</name>
+      <Point><coordinates>-53.5697,-19.3769</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ANTÔNIO JOÃO</name>
+      <Point><coordinates>-55.9436,-22.1881</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AQUIDAUANA</name>
+      <Point><coordinates>-55.8014,-20.4781</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BELA VISTA</name>
+      <Point><coordinates>-56.5275,-22.11</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CARACOL</name>
+      <Point><coordinates>-57.0322,-22.0142</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ESTRADA MT-738 - P</name>
+      <Point><coordinates>-56.095,-20.762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ESTRADA MT-738 - F</name>
+      <Point><coordinates>-56.0911,-20.7619</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA ESPERANÇA</name>
+      <Point><coordinates>-57.3772,-21.9697</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ITAUM</name>
+      <Point><coordinates>-55.3531,-22.0861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MARABÁ</name>
+      <Point><coordinates>-57.3597,-21.6889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PALMEIRAS - P</name>
+      <Point><coordinates>-55.4308,-20.4489</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PALMEIRAS - F</name>
+      <Point><coordinates>-55.4281,-20.4481</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PONTE DO GREGO</name>
+      <Point><coordinates>-55.09,-20.1558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PORTO DE PEDRAS - P</name>
+      <Point><coordinates>-53.015,-19.055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PORTO DE PEDRAS - F</name>
+      <Point><coordinates>-53.0189,-19.0567</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PORTO MURTINHO</name>
+      <Point><coordinates>-57.891,-21.7014</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SÃO CARLOS</name>
+      <Point><coordinates>-57.3047,-22.2228</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

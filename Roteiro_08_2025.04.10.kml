@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Roteiro_08_2025.04.10" id="Roteiro_08_2025.04.10">
+	<SimpleField name="Nome" type="string"></SimpleField>
+</Schema>
+<Folder><name>Roteiro_08_2025.04.10</name>
+  <Placemark>
+	<name>ALMAS</name>
+      <Point><coordinates>-47.1739,-11.5789</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ALVORADA DO NORTE</name>
+      <Point><coordinates>-46.4906,-14.4769</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AURORA DO NORTE</name>
+      <Point><coordinates>-46.4086,-12.7139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DIANÓPOLIS</name>
+      <Point><coordinates>-46.8106,-11.6253</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA INGAZEIRO</name>
+      <Point><coordinates>-46.5656,-13.6858</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA VENEZA</name>
+      <Point><coordinates>-46.7803,-13.4986</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>JATOBÁ - P</name>
+      <Point><coordinates>-47.483,-9.993</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>JATOBÁ - F</name>
+      <Point><coordinates>-47.48,-9.991</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LAVANDEIRA</name>
+      <Point><coordinates>-46.5122,-12.7936</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MIRACEMA DO TOCANTINS - P</name>
+      <Point><coordinates>-48.389,-9.565</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MIRACEMA DO TOCANTINS - F</name>
+      <Point><coordinates>-48.38,-9.5675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NATIVIDADE</name>
+      <Point><coordinates>-47.7283,-11.6969</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NOVO ACORDO</name>
+      <Point><coordinates>-47.6747,-9.9606</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PONTE ALTA DO BOM JESUS</name>
+      <Point><coordinates>-46.4794,-12.0908</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PORTO ALEGRE</name>
+      <Point><coordinates>-47.045,-11.61</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PORTO REAL - P</name>
+      <Point><coordinates>-47.9292,-9.3069</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PORTO REAL - F</name>
+      <Point><coordinates>-47.932,-9.309</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SÃO DOMINGOS</name>
+      <Point><coordinates>-46.3158,-13.3975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SÃO VICENTE - P</name>
+      <Point><coordinates>-46.4672,-13.5508</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SÃO VICENTE - F</name>
+      <Point><coordinates>-46.5676,-13.5515</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SÍTIO DA ABADIA</name>
+      <Point><coordinates>-46.2533,-14.8039</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

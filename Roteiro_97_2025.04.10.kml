@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Roteiro_97_2025.04.10" id="Roteiro_97_2025.04.10">
+	<SimpleField name="Nome" type="string"></SimpleField>
+</Schema>
+<Folder><name>Roteiro_97_2025.04.10</name>
+  <Placemark>
+	<name>ARAGUAIANA</name>
+      <Point><coordinates>-51.8281,-15.7381</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ARUANÃ - P</name>
+      <Point><coordinates>-51.0827,-14.9274</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ARUANÃ - F</name>
+      <Point><coordinates>-51.0822,-14.9122</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BANDEIRANTES - P</name>
+      <Point><coordinates>-50.7961,-13.6894</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BANDEIRANTES - F</name>
+      <Point><coordinates>-50.784,-13.642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BARRA DO GARÇAS</name>
+      <Point><coordinates>-52.228,-15.8916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MONTES CLAROS DE GOIÁS</name>
+      <Point><coordinates>-51.3572,-15.9408</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PERES</name>
+      <Point><coordinates>-51.8536,-15.89</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RIO PINDAÍBA</name>
+      <Point><coordinates>-52.238,-15.0361</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TRAVESSÃO - P</name>
+      <Point><coordinates>-50.7027,-15.5355</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TRAVESSÃO - F</name>
+      <Point><coordinates>-50.7047,-15.5358</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>XAVANTINA</name>
+      <Point><coordinates>-52.3547,-14.6722</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

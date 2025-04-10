@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Roteiro_04_2025.04.10" id="Roteiro_04_2025.04.10">
+	<SimpleField name="Nome" type="string"></SimpleField>
+</Schema>
+<Folder><name>Roteiro_04_2025.04.10</name>
+  <Placemark>
+	<name>AGROPECUÁRIA CAJABI</name>
+      <Point><coordinates>-54.5461,-10.7461</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ALTA FLORESTA</name>
+      <Point><coordinates>-56.1022,-9.8703</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CACHIMBO</name>
+      <Point><coordinates>-54.8864,-9.8186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CACHOEIRÃO</name>
+      <Point><coordinates>-55.7025,-11.6511</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CLÁUDIA</name>
+      <Point><coordinates>-54.8656,-11.4933</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>COLIDER</name>
+      <Point><coordinates>-55.4496,-10.7981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ESTÂNCIA BURITI</name>
+      <Point><coordinates>-56.4174,-10.3893</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ESTRADA CUIABÁ - SANTARÉM</name>
+      <Point><coordinates>-54.9711,-10.2203</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA DIVISÃO</name>
+      <Point><coordinates>-56.3156,-12.9806</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA ITAÚBA</name>
+      <Point><coordinates>-56.4333,-11.4714</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAZENDA RIO NOVO</name>
+      <Point><coordinates>-55.5067,-14.2206</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GUARANTÃ DO NORTE</name>
+      <Point><coordinates>-54.9042,-9.9756</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>INDECO</name>
+      <Point><coordinates>-55.57,-10.1125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>JUS. PEIXOTO DE AZEVEDO - P</name>
+      <Point><coordinates>-56.0186,-9.6433</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>JUS. PEIXOTO DE AZEVEDO - F</name>
+      <Point><coordinates>-56.0194,-9.6406</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MATUPÁ</name>
+      <Point><coordinates>-54.9189,-10.1503</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NOVA AMERICANA</name>
+      <Point><coordinates>-56.1572,-11.6447</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NOVA MARINGÁ</name>
+      <Point><coordinates>-57.1133,-13.0661</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NOVA MONTE VERDE</name>
+      <Point><coordinates>-57.4739,-9.9769</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NOVA MUTUM</name>
+      <Point><coordinates>-56.1222,-13.8156</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NOVO PLANETA</name>
+      <Point><coordinates>-57.3947,-9.5664</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PARANAÍTA</name>
+      <Point><coordinates>-56.4742,-9.6939</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PORTO RONCADOR - P</name>
+      <Point><coordinates>-55.3394,-13.5598</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PORTO RONCADOR - F</name>
+      <Point><coordinates>-55.3363,-13.5583</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SÃO JOSÉ DO RIO CLARO</name>
+      <Point><coordinates>-56.7275,-13.445</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SINOP</name>
+      <Point><coordinates>-56.4486,-11.6914</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TELES PIRES</name>
+      <Point><coordinates>-55.7931,-12.675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TERRA NOVA DO NORTE</name>
+      <Point><coordinates>-55.1033,-10.6044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TRIVELATO</name>
+      <Point><coordinates>-57.1331,-9.9417</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
