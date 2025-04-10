@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Roteiro 96</name>
@@ -20,9 +20,7 @@
       <Placemark>
         <name>BARREIRA DA CRUZ</name>
         <styleUrl>#estilo-completo</styleUrl>
-        <description>&lt;![CDATA[
-Roteiro: 96&lt;br&gt;
-]]&gt;</description>
+        <description>&lt;![CDATA[Roteiro: 96]]&gt;</description>
         <ExtendedData>
           <Data name="Roteiro">
             <value>96</value>
@@ -31,25 +29,23 @@ Roteiro: 96&lt;br&gt;
             <value>PLU / FLU</value>
           </Data>
           <Data name="Código">
-            <value>1049000.0 / 26800000.0</value>
+            <value>1049000 / 26800000</value>
           </Data>
           <Data name="Latitude">
-            <value>-10.5646</value>
+            <value>-10.56</value>
           </Data>
           <Data name="Longitude">
-            <value>-49.936</value>
+            <value>-49.9333</value>
           </Data>
         </ExtendedData>
         <Point>
-          <coordinates>-49.936,-10.5646,0</coordinates>
+          <coordinates>-49.9333,-10.56,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>BARREIRA DO PEQUI</name>
         <styleUrl>#estilo-completo</styleUrl>
-        <description>&lt;![CDATA[
-Roteiro: 96&lt;br&gt;
-]]&gt;</description>
+        <description>&lt;![CDATA[Roteiro: 96]]&gt;</description>
         <ExtendedData>
           <Data name="Roteiro">
             <value>96</value>
@@ -58,7 +54,7 @@ Roteiro: 96&lt;br&gt;
             <value>PLU</value>
           </Data>
           <Data name="Código">
-            <value>1249003.0</value>
+            <value>1249003</value>
           </Data>
           <Data name="Latitude">
             <value>-12.0986</value>
@@ -74,9 +70,7 @@ Roteiro: 96&lt;br&gt;
       <Placemark>
         <name>COLONHA</name>
         <styleUrl>#estilo-completo</styleUrl>
-        <description>&lt;![CDATA[
-Roteiro: 96&lt;br&gt;
-]]&gt;</description>
+        <description>&lt;![CDATA[Roteiro: 96]]&gt;</description>
         <ExtendedData>
           <Data name="Roteiro">
             <value>96</value>
@@ -85,7 +79,7 @@ Roteiro: 96&lt;br&gt;
             <value>PLU</value>
           </Data>
           <Data name="Código">
-            <value>1248001.0</value>
+            <value>1248001</value>
           </Data>
           <Data name="Latitude">
             <value>-12.3906</value>
@@ -101,9 +95,7 @@ Roteiro: 96&lt;br&gt;
       <Placemark>
         <name>FAZENDA COBRAPE</name>
         <styleUrl>#estilo-completo</styleUrl>
-        <description>&lt;![CDATA[
-Roteiro: 96&lt;br&gt;
-]]&gt;</description>
+        <description>&lt;![CDATA[Roteiro: 96]]&gt;</description>
         <ExtendedData>
           <Data name="Roteiro">
             <value>96</value>
@@ -112,7 +104,7 @@ Roteiro: 96&lt;br&gt;
             <value>FLU</value>
           </Data>
           <Data name="Código">
-            <value>26711000.0</value>
+            <value>26711000</value>
           </Data>
           <Data name="Latitude">
             <value>-11.4653</value>
@@ -128,9 +120,7 @@ Roteiro: 96&lt;br&gt;
       <Placemark>
         <name>FAZENDA DOIS RIOS</name>
         <styleUrl>#estilo-completo</styleUrl>
-        <description>&lt;![CDATA[
-Roteiro: 96&lt;br&gt;
-]]&gt;</description>
+        <description>&lt;![CDATA[Roteiro: 96]]&gt;</description>
         <ExtendedData>
           <Data name="Roteiro">
             <value>96</value>
@@ -139,7 +129,7 @@ Roteiro: 96&lt;br&gt;
             <value>FLU</value>
           </Data>
           <Data name="Código">
-            <value>26713000.0</value>
+            <value>26713000</value>
           </Data>
           <Data name="Latitude">
             <value>-10.7866</value>
@@ -155,9 +145,7 @@ Roteiro: 96&lt;br&gt;
       <Placemark>
         <name>JACINTO</name>
         <styleUrl>#estilo-completo</styleUrl>
-        <description>&lt;![CDATA[
-Roteiro: 96&lt;br&gt;
-]]&gt;</description>
+        <description>&lt;![CDATA[Roteiro: 96]]&gt;</description>
         <ExtendedData>
           <Data name="Roteiro">
             <value>96</value>
@@ -166,7 +154,7 @@ Roteiro: 96&lt;br&gt;
             <value>FLU</value>
           </Data>
           <Data name="Código">
-            <value>22150000.0</value>
+            <value>22150000</value>
           </Data>
           <Data name="Latitude">
             <value>-11.9824</value>
@@ -182,9 +170,7 @@ Roteiro: 96&lt;br&gt;
       <Placemark>
         <name>PEIXE</name>
         <styleUrl>#estilo-completo</styleUrl>
-        <description>&lt;![CDATA[
-Roteiro: 96&lt;br&gt;
-]]&gt;</description>
+        <description>&lt;![CDATA[Roteiro: 96]]&gt;</description>
         <ExtendedData>
           <Data name="Roteiro">
             <value>96</value>
@@ -193,7 +179,7 @@ Roteiro: 96&lt;br&gt;
             <value>FLU</value>
           </Data>
           <Data name="Código">
-            <value>22050001.0</value>
+            <value>22050001</value>
           </Data>
           <Data name="Latitude">
             <value>-12.0231</value>
@@ -209,9 +195,7 @@ Roteiro: 96&lt;br&gt;
       <Placemark>
         <name>PROJETO RIO FORMOSO</name>
         <styleUrl>#estilo-completo</styleUrl>
-        <description>&lt;![CDATA[
-Roteiro: 96&lt;br&gt;
-]]&gt;</description>
+        <description>&lt;![CDATA[Roteiro: 96]]&gt;</description>
         <ExtendedData>
           <Data name="Roteiro">
             <value>96</value>
@@ -220,7 +204,7 @@ Roteiro: 96&lt;br&gt;
             <value>FLU</value>
           </Data>
           <Data name="Código">
-            <value>26730000.0</value>
+            <value>26730000</value>
           </Data>
           <Data name="Latitude">
             <value>-11.8396</value>
@@ -236,3 +220,4 @@ Roteiro: 96&lt;br&gt;
     </Folder>
   </Document>
 </kml>
+

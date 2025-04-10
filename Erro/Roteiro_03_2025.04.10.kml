@@ -1,7 +1,7 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Roteiro 75</name>
+    <name>Roteiro 03</name>
     <description/>
     <Style id="estilo-completo">
       <IconStyle>
@@ -16,628 +16,658 @@
       </LabelStyle>
     </Style>
     <Folder>
-      <name>Roteiro 75</name>
+      <name>Roteiro 03</name>
       <Placemark>
-        <name>ALTO GARÇAS</name>
+        <name>ALDEIA SACRE II</name>
         <styleUrl>#estilo-completo</styleUrl>
-        <description>&lt;![CDATA[
-Roteiro: 75&lt;br&gt;
-]]&gt;</description>
+        <description>&lt;![CDATA[Roteiro: 3]]&gt;</description>
         <ExtendedData>
           <Data name="Roteiro">
-            <value>75</value>
+            <value>3</value>
           </Data>
           <Data name="Tipo">
-            <value>PLU</value>
+            <value>PLU / FLU</value>
           </Data>
           <Data name="Código">
-            <value>1653004.0</value>
+            <value>1358007 / 17092800</value>
           </Data>
           <Data name="Latitude">
-            <value>-16.9442</value>
+            <value>-13.028</value>
           </Data>
           <Data name="Longitude">
-            <value>-53.5336</value>
+            <value>-58.192</value>
           </Data>
         </ExtendedData>
         <Point>
-          <coordinates>-53.5336,-16.9442,0</coordinates>
+          <coordinates>-58.192,-13.028,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>ALTO SUCURIÚ</name>
+        <name>BACAVAL</name>
         <styleUrl>#estilo-completo</styleUrl>
-        <description>&lt;![CDATA[
-Roteiro: 75&lt;br&gt;
-]]&gt;</description>
+        <description>&lt;![CDATA[Roteiro: 3]]&gt;</description>
         <ExtendedData>
           <Data name="Roteiro">
-            <value>75</value>
+            <value>3</value>
           </Data>
           <Data name="Tipo">
             <value>PLU</value>
           </Data>
           <Data name="Código">
-            <value>1952000.0</value>
+            <value>1358001</value>
           </Data>
           <Data name="Latitude">
-            <value>-19.4442</value>
+            <value>-13.6414</value>
           </Data>
           <Data name="Longitude">
-            <value>-52.5583</value>
+            <value>-58.2892</value>
           </Data>
         </ExtendedData>
         <Point>
-          <coordinates>-52.5583,-19.4442,0</coordinates>
+          <coordinates>-58.2892,-13.6414,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>ÁRVORE GRANDE</name>
+        <name>BRASFOR</name>
         <styleUrl>#estilo-completo</styleUrl>
-        <description>&lt;![CDATA[
-Roteiro: 75&lt;br&gt;
-]]&gt;</description>
+        <description>&lt;![CDATA[Roteiro: 3]]&gt;</description>
         <ExtendedData>
           <Data name="Roteiro">
-            <value>75</value>
+            <value>3</value>
           </Data>
           <Data name="Tipo">
             <value>PLU</value>
           </Data>
           <Data name="Código">
-            <value>1951004.0</value>
+            <value>1458002</value>
           </Data>
           <Data name="Latitude">
-            <value>-19.2107</value>
+            <value>-14.3842</value>
           </Data>
           <Data name="Longitude">
-            <value>-51.8864</value>
+            <value>-58.2344</value>
           </Data>
         </ExtendedData>
         <Point>
-          <coordinates>-51.8864,-19.2107,0</coordinates>
+          <coordinates>-58.2344,-14.3842,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>BENJAMIN  BARROS</name>
+        <name>BRASNORTE</name>
         <styleUrl>#estilo-completo</styleUrl>
-        <description>&lt;![CDATA[
-Roteiro: 75&lt;br&gt;
-]]&gt;</description>
+        <description>&lt;![CDATA[Roteiro: 3]]&gt;</description>
         <ExtendedData>
           <Data name="Roteiro">
-            <value>75</value>
+            <value>3</value>
           </Data>
           <Data name="Tipo">
             <value>PLU</value>
           </Data>
           <Data name="Código">
-            <value>1751002.0</value>
+            <value>1257000</value>
           </Data>
           <Data name="Latitude">
-            <value>-17.695</value>
+            <value>-12.1164</value>
           </Data>
           <Data name="Longitude">
-            <value>-51.8922</value>
+            <value>-58.0003</value>
           </Data>
         </ExtendedData>
         <Point>
-          <coordinates>-51.8922,-17.695,0</coordinates>
+          <coordinates>-58.0003,-12.1164,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>BOM JARDIM</name>
+        <name>CAMPO NOVO DO PARECIS</name>
         <styleUrl>#estilo-completo</styleUrl>
-        <description>&lt;![CDATA[
-Roteiro: 75&lt;br&gt;
-]]&gt;</description>
+        <description>&lt;![CDATA[Roteiro: 3]]&gt;</description>
         <ExtendedData>
           <Data name="Roteiro">
-            <value>75</value>
+            <value>3</value>
           </Data>
           <Data name="Tipo">
             <value>PLU</value>
           </Data>
           <Data name="Código">
-            <value>1752006.0</value>
+            <value>1357001</value>
           </Data>
           <Data name="Latitude">
-            <value>-17.7181</value>
+            <value>-13.6922</value>
           </Data>
           <Data name="Longitude">
-            <value>-52.17</value>
+            <value>-57.8944</value>
           </Data>
         </ExtendedData>
         <Point>
-          <coordinates>-52.17,-17.7181,0</coordinates>
+          <coordinates>-57.8944,-13.6922,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>CACHOEIRA PÓLVORA</name>
+        <name>CASTANHEIRA</name>
         <styleUrl>#estilo-completo</styleUrl>
-        <description>&lt;![CDATA[
-Roteiro: 75&lt;br&gt;
-]]&gt;</description>
+        <description>&lt;![CDATA[Roteiro: 3]]&gt;</description>
         <ExtendedData>
           <Data name="Roteiro">
-            <value>75</value>
+            <value>3</value>
           </Data>
           <Data name="Tipo">
             <value>PLU</value>
           </Data>
           <Data name="Código">
-            <value>1853002.0</value>
+            <value>1158004</value>
           </Data>
           <Data name="Latitude">
-            <value>-18.1906</value>
+            <value>-11.14</value>
           </Data>
           <Data name="Longitude">
-            <value>-54.2578</value>
+            <value>-58.6161</value>
           </Data>
         </ExtendedData>
         <Point>
-          <coordinates>-54.2578,-18.1906,0</coordinates>
+          <coordinates>-58.6161,-11.14,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>CAIAPÔNIA</name>
+        <name>COLNIZA</name>
         <styleUrl>#estilo-completo</styleUrl>
-        <description>&lt;![CDATA[
-Roteiro: 75&lt;br&gt;
-]]&gt;</description>
+        <description>&lt;![CDATA[Roteiro: 3]]&gt;</description>
         <ExtendedData>
           <Data name="Roteiro">
-            <value>75</value>
+            <value>3</value>
           </Data>
           <Data name="Tipo">
             <value>PLU</value>
           </Data>
           <Data name="Código">
-            <value>1651000.0</value>
+            <value>958002</value>
           </Data>
           <Data name="Latitude">
-            <value>-16.9494</value>
+            <value>-9.4561</value>
           </Data>
           <Data name="Longitude">
-            <value>-51.8106</value>
+            <value>-59.2241</value>
           </Data>
         </ExtendedData>
         <Point>
-          <coordinates>-51.8106,-16.9494,0</coordinates>
+          <coordinates>-59.2241,-9.4561,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>CIDADE CHAPADÃO GAÚCHO</name>
+        <name>COTRIGUAÃ‡U</name>
         <styleUrl>#estilo-completo</styleUrl>
-        <description>&lt;![CDATA[
-Roteiro: 75&lt;br&gt;
-]]&gt;</description>
+        <description>&lt;![CDATA[Roteiro: 3]]&gt;</description>
         <ExtendedData>
           <Data name="Roteiro">
-            <value>75</value>
+            <value>3</value>
           </Data>
           <Data name="Tipo">
             <value>PLU</value>
           </Data>
           <Data name="Código">
-            <value>1852003.0</value>
+            <value>958004</value>
           </Data>
           <Data name="Latitude">
-            <value>-18.6913</value>
+            <value>-9.9133</value>
           </Data>
           <Data name="Longitude">
-            <value>-52.6013</value>
+            <value>-58.5642</value>
           </Data>
         </ExtendedData>
         <Point>
-          <coordinates>-52.6013,-18.6913,0</coordinates>
+          <coordinates>-58.5642,-9.9133,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>COLÔNIA FIGUEIRÃO</name>
+        <name>FAZENDA FLORESTA</name>
         <styleUrl>#estilo-completo</styleUrl>
-        <description>&lt;![CDATA[
-Roteiro: 75&lt;br&gt;
-]]&gt;</description>
+        <description>&lt;![CDATA[Roteiro: 3]]&gt;</description>
         <ExtendedData>
           <Data name="Roteiro">
-            <value>75</value>
+            <value>3</value>
           </Data>
           <Data name="Tipo">
             <value>PLU</value>
           </Data>
           <Data name="Código">
-            <value>1853005.0</value>
+            <value>1258001</value>
           </Data>
           <Data name="Latitude">
-            <value>-18.6797</value>
+            <value>-12.8675</value>
           </Data>
           <Data name="Longitude">
-            <value>-53.6378</value>
+            <value>-58.0703</value>
           </Data>
         </ExtendedData>
         <Point>
-          <coordinates>-53.6378,-18.6797,0</coordinates>
+          <coordinates>-58.0703,-12.8675,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>COSTA RICA</name>
+        <name>FAZENDA TOMBADOR</name>
         <styleUrl>#estilo-completo</styleUrl>
-        <description>&lt;![CDATA[
-Roteiro: 75&lt;br&gt;
-]]&gt;</description>
+        <description>&lt;![CDATA[Roteiro: 3]]&gt;</description>
         <ExtendedData>
           <Data name="Roteiro">
-            <value>75</value>
+            <value>3</value>
           </Data>
           <Data name="Tipo">
             <value>PLU</value>
           </Data>
           <Data name="Código">
-            <value>1853004.0</value>
+            <value>1158003</value>
           </Data>
           <Data name="Latitude">
-            <value>-18.5472</value>
+            <value>-11.7178</value>
           </Data>
           <Data name="Longitude">
-            <value>-53.1353</value>
+            <value>-58.0472</value>
           </Data>
         </ExtendedData>
         <Point>
-          <coordinates>-53.1353,-18.5472,0</coordinates>
+          <coordinates>-58.0472,-11.7178,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>FAZENDA RIO VERDE</name>
+        <name>FAZENDA TUCUNARÃ‰</name>
         <styleUrl>#estilo-completo</styleUrl>
-        <description>&lt;![CDATA[
-Roteiro: 75&lt;br&gt;
-]]&gt;</description>
+        <description>&lt;![CDATA[Roteiro: 3]]&gt;</description>
         <ExtendedData>
           <Data name="Roteiro">
-            <value>75</value>
+            <value>3</value>
           </Data>
           <Data name="Tipo">
-            <value>PLU</value>
+            <value>PLU / FLU</value>
           </Data>
           <Data name="Código">
-            <value>2052003.0</value>
+            <value>1358002 / 17091000</value>
           </Data>
           <Data name="Latitude">
-            <value>-20.1019</value>
+            <value>-13.4667</value>
           </Data>
           <Data name="Longitude">
-            <value>-52.9258</value>
+            <value>-58.975</value>
           </Data>
         </ExtendedData>
         <Point>
-          <coordinates>-52.9258,-20.1019,0</coordinates>
+          <coordinates>-58.975,-13.4667,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>FAZENDA SÃO BERNARDO</name>
+        <name>FONTANILLAS</name>
         <styleUrl>#estilo-completo</styleUrl>
-        <description>&lt;![CDATA[
-Roteiro: 75&lt;br&gt;
-]]&gt;</description>
+        <description>&lt;![CDATA[Roteiro: 3]]&gt;</description>
         <ExtendedData>
           <Data name="Roteiro">
-            <value>75</value>
+            <value>3</value>
           </Data>
           <Data name="Tipo">
-            <value>PLU</value>
+            <value>PLU / FLU</value>
           </Data>
           <Data name="Código">
-            <value>1752002.0</value>
+            <value>1158001 / 17093000</value>
           </Data>
           <Data name="Latitude">
-            <value>-17.6889</value>
+            <value>-11.3417</value>
           </Data>
           <Data name="Longitude">
-            <value>-52.9833</value>
+            <value>-58.3383</value>
           </Data>
         </ExtendedData>
         <Point>
-          <coordinates>-52.9833,-17.6889,0</coordinates>
+          <coordinates>-58.3383,-11.3417,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>FAZENDA TAQUARI</name>
+        <name>HUMBOLDT</name>
         <styleUrl>#estilo-completo</styleUrl>
-        <description>&lt;![CDATA[
-Roteiro: 75&lt;br&gt;
-]]&gt;</description>
+        <description>&lt;![CDATA[Roteiro: 3]]&gt;</description>
         <ExtendedData>
           <Data name="Roteiro">
-            <value>75</value>
+            <value>3</value>
           </Data>
           <Data name="Tipo">
             <value>PLU</value>
           </Data>
           <Data name="Código">
-            <value>1853000.0</value>
+            <value>1059000</value>
           </Data>
           <Data name="Latitude">
-            <value>-17.8114</value>
+            <value>-10.1753</value>
           </Data>
           <Data name="Longitude">
-            <value>-53.2889</value>
+            <value>-59.4517</value>
           </Data>
         </ExtendedData>
         <Point>
-          <coordinates>-53.2889,-17.8114,0</coordinates>
+          <coordinates>-59.4517,-10.1753,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>FURLANETO</name>
+        <name>JUARA</name>
         <styleUrl>#estilo-completo</styleUrl>
-        <description>&lt;![CDATA[
-Roteiro: 75&lt;br&gt;
-]]&gt;</description>
+        <description>&lt;![CDATA[Roteiro: 3]]&gt;</description>
         <ExtendedData>
           <Data name="Roteiro">
-            <value>75</value>
+            <value>3</value>
           </Data>
           <Data name="Tipo">
             <value>PLU</value>
           </Data>
           <Data name="Código">
-            <value>1953003.0</value>
+            <value>1157001</value>
           </Data>
           <Data name="Latitude">
-            <value>-19.2722</value>
+            <value>-11.2531</value>
           </Data>
           <Data name="Longitude">
-            <value>-53.4908</value>
+            <value>-57.5067</value>
           </Data>
         </ExtendedData>
         <Point>
-          <coordinates>-53.4908,-19.2722,0</coordinates>
+          <coordinates>-57.5067,-11.2531,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>INOCÊNCIA</name>
+        <name>JUÃNA</name>
         <styleUrl>#estilo-completo</styleUrl>
-        <description>&lt;![CDATA[
-Roteiro: 75&lt;br&gt;
-]]&gt;</description>
+        <description>&lt;![CDATA[Roteiro: 3]]&gt;</description>
         <ExtendedData>
           <Data name="Roteiro">
-            <value>75</value>
+            <value>3</value>
           </Data>
           <Data name="Tipo">
             <value>PLU</value>
           </Data>
           <Data name="Código">
-            <value>1951005.0</value>
+            <value>1158002</value>
           </Data>
           <Data name="Latitude">
-            <value>-19.7364</value>
+            <value>-11.4081</value>
           </Data>
           <Data name="Longitude">
-            <value>-51.9336</value>
+            <value>-58.7186</value>
           </Data>
         </ExtendedData>
         <Point>
-          <coordinates>-51.9336,-19.7364,0</coordinates>
+          <coordinates>-58.7186,-11.4081,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>MORANGAS</name>
+        <name>JURUENA</name>
         <styleUrl>#estilo-completo</styleUrl>
-        <description>&lt;![CDATA[
-Roteiro: 75&lt;br&gt;
-]]&gt;</description>
+        <description>&lt;![CDATA[Roteiro: 3]]&gt;</description>
         <ExtendedData>
           <Data name="Roteiro">
-            <value>75</value>
+            <value>3</value>
           </Data>
           <Data name="Tipo">
             <value>PLU</value>
           </Data>
           <Data name="Código">
-            <value>1952002.0</value>
+            <value>1058003</value>
           </Data>
           <Data name="Latitude">
-            <value>-19.5536</value>
+            <value>-10.3125</value>
           </Data>
           <Data name="Longitude">
-            <value>-52.1664</value>
+            <value>-58.5008</value>
           </Data>
         </ExtendedData>
         <Point>
-          <coordinates>-52.1664,-19.5536,0</coordinates>
+          <coordinates>-58.5008,-10.3125,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>PEDRO SEVERO</name>
+        <name>NOVO TANGARÃ</name>
         <styleUrl>#estilo-completo</styleUrl>
-        <description>&lt;![CDATA[
-Roteiro: 75&lt;br&gt;
-]]&gt;</description>
+        <description>&lt;![CDATA[Roteiro: 3]]&gt;</description>
         <ExtendedData>
           <Data name="Roteiro">
-            <value>75</value>
+            <value>3</value>
           </Data>
           <Data name="Tipo">
             <value>PLU</value>
           </Data>
           <Data name="Código">
-            <value>1754004.0</value>
+            <value>1058004</value>
           </Data>
           <Data name="Latitude">
-            <value>-17.8308</value>
+            <value>-10.8342</value>
           </Data>
           <Data name="Longitude">
-            <value>-54.3131</value>
+            <value>-58.8033</value>
           </Data>
         </ExtendedData>
         <Point>
-          <coordinates>-54.3131,-17.8308,0</coordinates>
+          <coordinates>-58.8033,-10.8342,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>POMBAL</name>
+        <name>NÃšCLEO ARIEL</name>
         <styleUrl>#estilo-completo</styleUrl>
-        <description>&lt;![CDATA[
-Roteiro: 75&lt;br&gt;
-]]&gt;</description>
+        <description>&lt;![CDATA[Roteiro: 3]]&gt;</description>
         <ExtendedData>
           <Data name="Roteiro">
-            <value>75</value>
+            <value>3</value>
           </Data>
           <Data name="Tipo">
             <value>PLU</value>
           </Data>
           <Data name="Código">
-            <value>1851004.0</value>
+            <value>1058002</value>
           </Data>
           <Data name="Latitude">
-            <value>-18.0931</value>
+            <value>-9.8564</value>
           </Data>
           <Data name="Longitude">
-            <value>-51.4969</value>
+            <value>-58.2489</value>
           </Data>
         </ExtendedData>
         <Point>
-          <coordinates>-51.4969,-18.0931,0</coordinates>
+          <coordinates>-58.2489,-9.8564,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>PONTAL</name>
+        <name>OLHO D'ÃGUA</name>
         <styleUrl>#estilo-completo</styleUrl>
-        <description>&lt;![CDATA[
-Roteiro: 75&lt;br&gt;
-]]&gt;</description>
+        <description>&lt;![CDATA[Roteiro: 3]]&gt;</description>
         <ExtendedData>
           <Data name="Roteiro">
-            <value>75</value>
+            <value>3</value>
           </Data>
           <Data name="Tipo">
             <value>PLU</value>
           </Data>
           <Data name="Código">
-            <value>1952001.0</value>
+            <value>1157002</value>
           </Data>
           <Data name="Latitude">
-            <value>-19.6781</value>
+            <value>-11.715</value>
           </Data>
           <Data name="Longitude">
-            <value>-52.8964</value>
+            <value>-57.0419</value>
           </Data>
         </ExtendedData>
         <Point>
-          <coordinates>-52.8964,-19.6781,0</coordinates>
+          <coordinates>-57.0419,-11.715,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>PONTE RIO DOCE</name>
+        <name>PORTO DOS GAÃšCHOS</name>
         <styleUrl>#estilo-completo</styleUrl>
-        <description>&lt;![CDATA[
-Roteiro: 75&lt;br&gt;
-]]&gt;</description>
+        <description>&lt;![CDATA[Roteiro: 3]]&gt;</description>
         <ExtendedData>
           <Data name="Roteiro">
-            <value>75</value>
+            <value>3</value>
           </Data>
           <Data name="Tipo">
-            <value>PLU</value>
+            <value>PLU / FLU</value>
           </Data>
           <Data name="Código">
-            <value>1751001.0</value>
+            <value>1157000 / 17120000</value>
           </Data>
           <Data name="Latitude">
-            <value>-17.8564</value>
+            <value>-11.5358</value>
           </Data>
           <Data name="Longitude">
-            <value>-51.3967</value>
+            <value>-57.4172</value>
           </Data>
         </ExtendedData>
         <Point>
-          <coordinates>-51.3967,-17.8564,0</coordinates>
+          <coordinates>-57.4172,-11.5358,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>POSTO CORRENTES (MT-163)</name>
+        <name>PRÃ“XIMO ILHOCA</name>
         <styleUrl>#estilo-completo</styleUrl>
-        <description>&lt;![CDATA[
-Roteiro: 75&lt;br&gt;
-]]&gt;</description>
+        <description>&lt;![CDATA[Roteiro: 3]]&gt;</description>
         <ExtendedData>
           <Data name="Roteiro">
-            <value>75</value>
+            <value>3</value>
           </Data>
           <Data name="Tipo">
             <value>PLU</value>
           </Data>
           <Data name="Código">
-            <value>1754002.0</value>
+            <value>1457004</value>
           </Data>
           <Data name="Latitude">
-            <value>-17.5869</value>
+            <value>-14.5847</value>
           </Data>
           <Data name="Longitude">
-            <value>-54.7567</value>
+            <value>-57.925</value>
           </Data>
         </ExtendedData>
         <Point>
-          <coordinates>-54.7567,-17.5869,0</coordinates>
+          <coordinates>-57.925,-14.5847,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>SANTO ANTÔNIO DO PARAÍSO</name>
+        <name>RIO ARINOS</name>
         <styleUrl>#estilo-completo</styleUrl>
-        <description>&lt;![CDATA[
-Roteiro: 75&lt;br&gt;
-]]&gt;</description>
+        <description>&lt;![CDATA[Roteiro: 3]]&gt;</description>
         <ExtendedData>
           <Data name="Roteiro">
-            <value>75</value>
+            <value>3</value>
           </Data>
           <Data name="Tipo">
             <value>PLU</value>
           </Data>
           <Data name="Código">
-            <value>1755000.0</value>
+            <value>1058006</value>
           </Data>
           <Data name="Latitude">
-            <value>-17.4917</value>
+            <value>-10.6397</value>
           </Data>
           <Data name="Longitude">
-            <value>-55.2322</value>
+            <value>-58.0039</value>
           </Data>
         </ExtendedData>
         <Point>
-          <coordinates>-55.2322,-17.4917,0</coordinates>
+          <coordinates>-58.0039,-10.6397,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>SERRANÓPOLIS</name>
+        <name>RIO DOS PEIXES</name>
         <styleUrl>#estilo-completo</styleUrl>
-        <description>&lt;![CDATA[
-Roteiro: 75&lt;br&gt;
-]]&gt;</description>
+        <description>&lt;![CDATA[Roteiro: 3]]&gt;</description>
         <ExtendedData>
           <Data name="Roteiro">
-            <value>75</value>
+            <value>3</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>17122000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-10.8231</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-57.7272</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-57.7272,-10.8231,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SPERAFICO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>&lt;![CDATA[Roteiro: 3]]&gt;</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>3</value>
           </Data>
           <Data name="Tipo">
             <value>PLU</value>
           </Data>
           <Data name="Código">
-            <value>1851005.0</value>
+            <value>1358005</value>
           </Data>
           <Data name="Latitude">
-            <value>-18.3044</value>
+            <value>-13.91</value>
           </Data>
           <Data name="Longitude">
-            <value>-51.9622</value>
+            <value>-58.8981</value>
           </Data>
         </ExtendedData>
         <Point>
-          <coordinates>-51.9622,-18.3044,0</coordinates>
+          <coordinates>-58.8981,-13.91,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TABAPORÃƒ</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>&lt;![CDATA[Roteiro: 3]]&gt;</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>3</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1156002</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-11.3047</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-56.825</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-56.825,-11.3047,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>VALE DO NATAL</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>&lt;![CDATA[Roteiro: 3]]&gt;</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>3</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1058005</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-10.5886</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-58.8678</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-58.8678,-10.5886,0</coordinates>
         </Point>
       </Placemark>
     </Folder>
   </Document>
 </kml>
+
