@@ -1,0 +1,346 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Roteiro 13</name>
+    <description/>
+    <Style id="estilo-completo">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Roteiro 13</name>
+      <Placemark>
+        <name>ÁGUA CLARA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>&lt;![CDATA[
+Roteiro: 13&lt;br&gt;
+]]&gt;</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>13</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>63350100.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-20.445</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-52.9017</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-52.9017,-20.445,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AROEIRA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>&lt;![CDATA[
+Roteiro: 13&lt;br&gt;
+]]&gt;</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>13</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU / FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>2154000.0 / 64613000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-21.6419</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-54.4227</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-54.4227,-21.6419,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CAMPOS ELÍSIOS</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>&lt;![CDATA[
+Roteiro: 13&lt;br&gt;
+]]&gt;</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>13</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU / FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>2053004.0 / 63930000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-20.9753</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-53.2831</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-53.2831,-20.9753,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CONFLUÊNCIA RIO JAURU</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>&lt;![CDATA[
+Roteiro: 13&lt;br&gt;
+]]&gt;</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>13</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>66849000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-18.7303</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-54.5786</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-54.5786,-18.7303,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CONTRA VERTENTE</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>&lt;![CDATA[
+Roteiro: 13&lt;br&gt;
+]]&gt;</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>13</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>66850000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-18.7244</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-54.5297</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-54.5297,-18.7244,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>COXIM</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>&lt;![CDATA[
+Roteiro: 13&lt;br&gt;
+]]&gt;</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>13</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU / FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1854004.0 / 66870000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-18.5078</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-54.7619</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-54.7619,-18.5078,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FAZENDA DIVISA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>&lt;![CDATA[
+Roteiro: 13&lt;br&gt;
+]]&gt;</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>13</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU / FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>2153005.0 / 63950250.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-21.2075</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-53.955</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-53.955,-21.2075,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FAZENDA PONTE</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>&lt;![CDATA[
+Roteiro: 13&lt;br&gt;
+]]&gt;</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>13</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU / FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>2154008.0 / 63950100.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-21.3044</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-54.2039</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-54.2039,-21.3044,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GARIMPAGEM</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>&lt;![CDATA[
+Roteiro: 13&lt;br&gt;
+]]&gt;</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>13</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>66855000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-18.7125</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-54.5669</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-54.5669,-18.7125,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PEDRO GOMES</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>&lt;![CDATA[
+Roteiro: 13&lt;br&gt;
+]]&gt;</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>13</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU / FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1854001.0 / 66845000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-18.1675</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-54.4703</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-54.4703,-18.1675,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RIBAS DO RIO PARDO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>&lt;![CDATA[
+Roteiro: 13&lt;br&gt;
+]]&gt;</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>13</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU / FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>2053000.0 / 63900001.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-20.4414</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-53.7181</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-53.7181,-20.4414,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>VAU DO BÁLSAMO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>&lt;![CDATA[
+Roteiro: 13&lt;br&gt;
+]]&gt;</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>13</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU / FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>2154002.0 / 63950010.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-20.9942</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-54.5072</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-54.5072,-20.9942,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
