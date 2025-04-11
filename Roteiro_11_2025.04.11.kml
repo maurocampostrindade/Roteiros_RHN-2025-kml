@@ -1,0 +1,724 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Roteiro 11</name>
+    <description/>
+    <Style id="estilo-completo">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Roteiro 11</name>
+      <Placemark>
+        <name>ARAGOIÂNIA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1649001.0&lt;br&gt;
+Tipo: PLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>11</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1649001.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-16.9119</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-49.4522</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-49.4522,-16.9119,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CACHOEIRA DE GOIÁS</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1650000.0&lt;br&gt;
+Tipo: PLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>11</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1650000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-16.6694</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.6492</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.6492,-16.6694,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CÓRREGO DO OURO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1650001.0&lt;br&gt;
+Tipo: PLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>11</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1650001.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-16.2983</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.5567</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.5567,-16.2983,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CORUMBAZUL</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1848007.0&lt;br&gt;
+Tipo: PLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>11</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1848007.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-18.2425</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.8586</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-48.8586,-18.2425,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CROMÍNIA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1749009.0&lt;br&gt;
+Tipo: PLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>11</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1749009.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-17.285</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-49.3828</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-49.3828,-17.285,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDÉIA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1749000.0&lt;br&gt;
+Tipo: PLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>11</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1749000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-17.3414</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-49.9303</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-49.9303,-17.3414,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FAZENDA MONTE ALEGRE</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 60778000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>11</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>60778000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-17.3311</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.7675</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.7675,-17.3311,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FAZENDA NOVA DO TURVO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 60750000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>11</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>60750000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-17.0792</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.2894</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.2894,-17.0792,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FAZENDA PARAÍSO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 60785005.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>11</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>60785005.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-17.4658</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.7742</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.7742,-17.4658,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FAZENDA SUCURI</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 60654000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>11</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>60654000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-16.917</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-49.1047</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-49.1047,-16.917,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>IPORÁ</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1651001.0&lt;br&gt;
+Tipo: PLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>11</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1651001.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-16.4281</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-51.0828</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-51.0828,-16.4281,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ISRAELÂNDIA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1650002.0&lt;br&gt;
+Tipo: PLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>11</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1650002.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-16.3161</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.9058</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.9058,-16.3161,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ITAPIRAPUÃ</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1550000.0&lt;br&gt;
+Tipo: PLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>11</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1550000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-15.8163</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.6101</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.6101,-15.8163,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>IVOLÂNDIA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 24900000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>11</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>24900000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-16.5125</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.9961</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.9961,-16.5125,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JEROAQUARA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1550001.0&lt;br&gt;
+Tipo: PLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>11</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1550001.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-15.3748</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.5011</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.5011,-15.3748,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JOVIÂNIA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1749002.0&lt;br&gt;
+Tipo: PLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>11</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1749002.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-17.8097</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-49.6181</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-49.6181,-17.8097,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MARZAGÃO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1748004.0&lt;br&gt;
+Tipo: PLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>11</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1748004.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-17.9822</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.67</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-48.67,-17.9822,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MONTIVIDIU</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1751004.0 / 60774000.0&lt;br&gt;
+Tipo: PLU / FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>11</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU / FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1751004.0 / 60774000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-17.3592</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-51.0753</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-51.0753,-17.3592,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MORRINHOS</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1749003.0&lt;br&gt;
+Tipo: PLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>11</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1749003.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-17.7328</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-49.1153</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-49.1153,-17.7328,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARAÚNA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1750013.0&lt;br&gt;
+Tipo: PLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>11</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1750013.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-16.9489</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.4469</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.4469,-16.9489,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PIRACANJUBA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1749005.0&lt;br&gt;
+Tipo: PLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>11</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1749005.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-17.2894</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-49.0272</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-49.0272,-17.2894,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PIRANHAS</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1651002.0 / 24780000.0&lt;br&gt;
+Tipo: PLU / FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>11</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU / FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1651002.0 / 24780000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-16.4306</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-51.8164</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-51.8164,-16.4306,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PONTALINA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1749004.0&lt;br&gt;
+Tipo: PLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>11</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1749004.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-17.5169</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-49.4417</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-49.4417,-17.5169,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PROFESSOR JAMIL</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 60665000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>11</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>60665000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-17.2536</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-49.275</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-49.275,-17.2536,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SÃO FERREIRA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1651003.0 / 24750000.0&lt;br&gt;
+Tipo: PLU / FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>11</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU / FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1651003.0 / 24750000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-16.3025</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-51.4692</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-51.4692,-16.3025,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TRÊS RANCHOS</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1847006.0&lt;br&gt;
+Tipo: PLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>11</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1847006.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-18.3288</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-47.7897</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-47.7897,-18.3288,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

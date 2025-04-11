@@ -1,0 +1,265 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Roteiro 98</name>
+    <description/>
+    <Style id="estilo-completo">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Roteiro 98</name>
+      <Placemark>
+        <name>BALNEARIO CACHOEIRA GRANDE</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 25100000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>98</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>25100000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-15.9225</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.1723</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.1723,-15.9225,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BARRA DO MONJOLO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 60765000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>98</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>60765000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-17.7323</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.1817</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.1817,-17.7323,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FAZENDA PACIÊNCIA </name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 25090000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>98</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>25090000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-15.9149</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.1281</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.1281,-15.9149,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FAZENDA SANTA MARIA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 60772000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>98</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>60772000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-17.9811</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.2475</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.2475,-17.9811,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JARAGUÁ</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 20100000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>98</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>20100000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-15.7242</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-49.3189</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-49.3189,-15.7242,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MAURILÂNDIA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1850003.0 / 60798000.0&lt;br&gt;
+Tipo: PLU / FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>98</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU / FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1850003.0 / 60798000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-17.9675</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.3328</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.3328,-17.9675,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PONTE MEIA PONTE</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1849016.0 / 60680000.0&lt;br&gt;
+Tipo: PLU / FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>98</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU / FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1849016.0 / 60680000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-18.3489</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-49.6018</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-49.6018,-18.3489,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PONTE RODAGEM</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 60781000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>98</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>60781000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-17.3258</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.6819</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.6819,-17.3258,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>URUANA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1549009.0 / 20200000.0&lt;br&gt;
+Tipo: PLU / FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>98</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU / FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1549009.0 / 20200000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-15.4968</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-49.6911</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-49.6911,-15.4968,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

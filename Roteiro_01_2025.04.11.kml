@@ -1,0 +1,292 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Roteiro 01</name>
+    <description/>
+    <Style id="estilo-completo">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Roteiro 01</name>
+      <Placemark>
+        <name>ILHA CAMARGO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 66370000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>1</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>66370000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-17.057</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-56.586</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-56.586,-17.057,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NOSSA SRA. DO LIVRAMENTO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1556001.0&lt;br&gt;
+Tipo: PLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>1</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1556001.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-15.7739</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-56.3497</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-56.3497,-15.7739,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POCONÉ</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1656002.0&lt;br&gt;
+Tipo: PLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>1</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1656002.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-16.2853</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-56.5949</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-56.5949,-16.2853,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PORTO CERCADO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 66340000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>1</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>66340000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-16.5119</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-56.3756</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-56.3756,-16.5119,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PORTO DO ALEGRE</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 66750000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>1</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>66750000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-17.624</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-56.965</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-56.965,-17.624,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POUSADA TAIAMÃ</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1756004.0 / 66710000.0&lt;br&gt;
+Tipo: PLU / FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>1</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU / FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1756004.0 / 66710000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-17.3656</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-56.7747</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-56.7747,-17.3656,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SÃO JERÔNIMO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1755003.0 / 66600000.0&lt;br&gt;
+Tipo: PLU / FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>1</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU / FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1755003.0 / 66600000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-17.2017</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-56.0086</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-56.0086,-17.2017,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SÃO JOÃO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 66360000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>1</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>66360000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-16.9444</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-56.6328</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-56.6328,-16.9444,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SÃO JOSÉ DO BORIRÉU</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1656003.0 / 66470000.0&lt;br&gt;
+Tipo: PLU / FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>1</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU / FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1656003.0 / 66470000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-16.9253</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-56.2236</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-56.2236,-16.9253,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SÃO JOSÉ DO PIQUIRI</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1756001.0 / 66650000.0&lt;br&gt;
+Tipo: PLU / FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>1</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU / FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1756001.0 / 66650000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-17.2917</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-56.3872</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-56.3872,-17.2917,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
