@@ -1,0 +1,274 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Roteiro 97</name>
+    <description/>
+    <Style id="estilo-completo">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Roteiro 97</name>
+      <Placemark>
+        <name>ARAGUAIANA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Roteiro: 97&lt;br&gt;
+Código: 24850000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>97</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>24850000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-15.7381</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-51.8281</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-51.8281,-15.7381,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ARUANÃ</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Roteiro: 97&lt;br&gt;
+Código: 1451000.0 / 25200000.0&lt;br&gt;
+Tipo: PLU / FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>97</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU / FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1451000.0 / 25200000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-14.9122</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-51.0822</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-51.0822,-14.9122,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BANDEIRANTES</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Roteiro: 97&lt;br&gt;
+Código: 1350000.0 / 25700000.0&lt;br&gt;
+Tipo: PLU / FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>97</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU / FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1350000.0 / 25700000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-13.642</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.784</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.784,-13.642,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BARRA DO GARÇAS</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Roteiro: 97&lt;br&gt;
+Código: 24700000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>97</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>24700000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-15.8916</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-52.228</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-52.228,-15.8916,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MONTES CLAROS DE GOIÁS</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Roteiro: 97&lt;br&gt;
+Código: 24950000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>97</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>24950000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-15.9398</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-51.3578</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-51.3578,-15.9398,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PERES</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Roteiro: 97&lt;br&gt;
+Código: 24800000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>97</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>24800000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-15.8897</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-51.853</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-51.853,-15.8897,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RIO PINDAÍBA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Roteiro: 97&lt;br&gt;
+Código: 26150000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>97</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>26150000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-15.0361</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-52.238</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-52.238,-15.0361,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TRAVESSÃO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Roteiro: 97&lt;br&gt;
+Código: 1550002.0 / 25130000.0&lt;br&gt;
+Tipo: PLU / FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>97</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU / FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1550002.0 / 25130000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-15.5358</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.7047</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.7047,-15.5358,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>XAVANTINA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Roteiro: 97&lt;br&gt;
+Código: 26100000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>97</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>26100000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-14.6725</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-52.355</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-52.355,-14.6725,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

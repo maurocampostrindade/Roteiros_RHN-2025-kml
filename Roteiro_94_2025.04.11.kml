@@ -1,0 +1,330 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Roteiro 94</name>
+    <description/>
+    <Style id="estilo-completo">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Roteiro 94</name>
+      <Placemark>
+        <name>BARÃO DE MELGAÇO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Roteiro: 94&lt;br&gt;
+Código: 1655002.0 / 66280000.0&lt;br&gt;
+Tipo: PLU / FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>94</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU / FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1655002.0 / 66280000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-16.1928</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-55.9669</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-55.9669,-16.1928,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BARRA DO BUGRES</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Roteiro: 94&lt;br&gt;
+Código: 66010000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>94</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>66010000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-15.077</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-57.183</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-57.183,-15.077,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BARRANQUINHO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Roteiro: 94&lt;br&gt;
+Código: 1557003.0&lt;br&gt;
+Tipo: PLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>94</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1557003.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-15.6422</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-57.475</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-57.475,-15.6422,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CÁCERES</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Roteiro: 94&lt;br&gt;
+Código: 66070004.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>94</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>66070004.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-16.0758</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-57.7022</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-57.7022,-16.0758,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>COLÔNIA RIO BRANCO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Roteiro: 94&lt;br&gt;
+Código: 1558000.0&lt;br&gt;
+Tipo: PLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>94</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1558000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-15.2453</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-58.1133</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-58.1133,-15.2453,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DESCALVADOS</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Roteiro: 94&lt;br&gt;
+Código: 66090000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>94</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>66090000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-16.7328</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-57.7489</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-57.7489,-16.7328,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DESTACAMENTO DA CORIXA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Roteiro: 94&lt;br&gt;
+Código: 1658000.0&lt;br&gt;
+Tipo: PLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>94</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1658000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-16.3944</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-58.3389</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-58.3389,-16.3944,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FLECHAS</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Roteiro: 94&lt;br&gt;
+Código: 1657004.0&lt;br&gt;
+Tipo: PLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>94</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1657004.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-16.0392</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-57.2575</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-57.2575,-16.0392,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PORTO CONCEIÇÃO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Roteiro: 94&lt;br&gt;
+Código: 66120000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>94</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>66120000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-17.1433</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-57.3594</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-57.3594,-17.1433,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PORTO LIMÃO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Roteiro: 94&lt;br&gt;
+Código: 66077000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>94</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>66077000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-16.1469</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-58.0092</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-58.0092,-16.1469,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SANTO ANTONIO DO LEVERGER</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Roteiro: 94&lt;br&gt;
+Código: 66270000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>94</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>66270000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-15.87</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-56.078</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-56.078,-15.87,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
