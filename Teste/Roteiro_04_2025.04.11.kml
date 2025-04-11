@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Roteiro 04</name>
+    <description/>
+    <Style id="estilo-completo">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Roteiro 04</name>
+      <Placemark>
+        <name>AGROPECU脕RIA CAJABI</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 4<br>Tipo: PLU<br>C贸digo: 1054000<br>Latitude: -10.7461<br>Longitude: -54.5461]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>4</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1054000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-10.7461</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-54.5461</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-54.5461,-10.7461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ALTA FLORESTA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 4<br>Tipo: PLU<br>C贸digo: 956000<br>Latitude: -9.8703<br>Longitude: -56.1022]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>4</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>956000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-9.8703</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-56.1022</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-56.1022,-9.8703,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CACHIMBO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 4<br>Tipo: PLU<br>C贸digo: 954001<br>Latitude: -9.8186<br>Longitude: -54.8864]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>4</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>954001</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-9.8186</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-54.8864</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-54.8864,-9.8186,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CACHOEIR脙O</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 4<br>Tipo: PLU<br>C贸digo: 1155000<br>Latitude: -11.6511<br>Longitude: -55.7025]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>4</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1155000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-11.6511</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-55.7025</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-55.7025,-11.6511,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CL脕UDIA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 4<br>Tipo: PLU<br>C贸digo: 1154004<br>Latitude: -11.4933<br>Longitude: -54.8656]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>4</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1154004</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-11.4933</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-54.8656</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-54.8656,-11.4933,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>COLIDER</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 4<br>Tipo: PLU<br>C贸digo: 1055002<br>Latitude: -10.7981<br>Longitude: -55.4496]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>4</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1055002</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-10.7981</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-55.4496</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-55.4496,-10.7981,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EST脗NCIA BURITI</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 4<br>Tipo: PLU<br>C贸digo: 1056001<br>Latitude: -10.3893<br>Longitude: -56.4174]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>4</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1056001</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-10.3893</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-56.4174</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-56.4174,-10.3893,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ESTRADA CUIAB脕 - SANTAR脡M</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 4<br>Tipo: PLU<br>C贸digo: 1055000<br>Latitude: -10.2203<br>Longitude: -54.9711]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>4</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1055000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-10.2203</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-54.9711</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-54.9711,-10.2203,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FAZENDA DIVIS脙O</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 4<br>Tipo: PLU<br>C贸digo: 1256002<br>Latitude: -12.9806<br>Longitude: -56.3156]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>4</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1256002</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-12.9806</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-56.3156</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-56.3156,-12.9806,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FAZENDA ITA脷BA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 4<br>Tipo: PLU<br>C贸digo: 1156000<br>Latitude: -11.4714<br>Longitude: -56.4333]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>4</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1156000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-11.4714</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-56.4333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-56.4333,-11.4714,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FAZENDA RIO NOVO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 4<br>Tipo: PLU<br>C贸digo: 1455009<br>Latitude: -14.2206<br>Longitude: -55.5067]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>4</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1455009</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-14.2206</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-55.5067</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-55.5067,-14.2206,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GUARANT脙 DO NORTE</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 4<br>Tipo: PLU<br>C贸digo: 954002<br>Latitude: -9.9756<br>Longitude: -54.9042]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>4</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>954002</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-9.9756</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-54.9042</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-54.9042,-9.9756,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INDECO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 4<br>Tipo: PLU<br>C贸digo: 1055001<br>Latitude: -10.1125<br>Longitude: -55.57]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>4</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1055001</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-10.1125</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-55.57</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-55.57,-10.1125,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JUS. PEIXOTO DE AZEVEDO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 4<br>Tipo: PLU / FLU<br>C贸digo: 956001 / 17380000<br>Latitude: -9.6433<br>Longitude: -56.0186]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>4</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU / FLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>956001 / 17380000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-9.6433</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-56.0186</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-56.0186,-9.6433,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MATUP脕</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 4<br>Tipo: PLU<br>C贸digo: 1054002<br>Latitude: -10.1503<br>Longitude: -54.9189]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>4</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1054002</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-10.1503</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-54.9189</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-54.9189,-10.1503,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NOVA AMERICANA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 4<br>Tipo: PLU<br>C贸digo: 1156003<br>Latitude: -11.6447<br>Longitude: -56.1572]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>4</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1156003</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-11.6447</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-56.1572</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-56.1572,-11.6447,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NOVA MARING脕</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 4<br>Tipo: PLU<br>C贸digo: 1357000<br>Latitude: -13.0661<br>Longitude: -57.1133]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>4</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1357000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-13.0661</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-57.1133</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-57.1133,-13.0661,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NOVA MONTE VERDE</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 4<br>Tipo: PLU<br>C贸digo: 957002<br>Latitude: -9.9769<br>Longitude: -57.4739]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>4</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>957002</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-9.9769</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-57.4739</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-57.4739,-9.9769,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NOVA MUTUM</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 4<br>Tipo: PLU<br>C贸digo: 1356002<br>Latitude: -13.8156<br>Longitude: -56.1222]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>4</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1356002</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-13.8156</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-56.1222</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-56.1222,-13.8156,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NOVO PLANETA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 4<br>Tipo: PLU<br>C贸digo: 957001<br>Latitude: -9.5664<br>Longitude: -57.3947]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>4</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>957001</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-9.5664</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-57.3947</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-57.3947,-9.5664,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARANA脥TA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 4<br>Tipo: PLU<br>C贸digo: 956002<br>Latitude: -9.6939<br>Longitude: -56.4742]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>4</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>956002</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-9.6939</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-56.4742</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-56.4742,-9.6939,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PORTO RONCADOR</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 4<br>Tipo: PLU / FLU<br>C贸digo: 1355001 / 17200000<br>Latitude: -13.5598<br>Longitude: -55.3394]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>4</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU / FLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1355001 / 17200000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-13.5598</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-55.3394</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-55.3394,-13.5598,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>S脙O JOS脡 DO RIO CLARO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 4<br>Tipo: PLU<br>C贸digo: 1356004<br>Latitude: -13.445<br>Longitude: -56.7275]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>4</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1356004</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-13.445</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-56.7275</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-56.7275,-13.445,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SINOP</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 4<br>Tipo: PLU<br>C贸digo: 1156001<br>Latitude: -11.6914<br>Longitude: -56.4486]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>4</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1156001</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-11.6914</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-56.4486</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-56.4486,-11.6914,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TELES PIRES</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 4<br>Tipo: PLU<br>C贸digo: 1255001<br>Latitude: -12.675<br>Longitude: -55.7931]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>4</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1255001</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-12.675</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-55.7931</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-55.7931,-12.675,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TERRA NOVA DO NORTE</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 4<br>Tipo: PLU<br>C贸digo: 1055004<br>Latitude: -10.6044<br>Longitude: -55.1033]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>4</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1055004</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-10.6044</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-55.1033</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-55.1033,-10.6044,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TRIVELATO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 4<br>Tipo: PLU<br>C贸digo: 1057001<br>Latitude: -9.9417<br>Longitude: -57.1331]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>4</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1057001</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-9.9417</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-57.1331</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-57.1331,-9.9417,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

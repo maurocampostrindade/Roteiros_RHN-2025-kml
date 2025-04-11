@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Roteiro 98</name>
+    <description/>
+    <Style id="estilo-completo">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Roteiro 98</name>
+      <Placemark>
+        <name>BALNEARIO CACHOEIRA GRANDE</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 98<br>Tipo: FLU<br>C贸digo: 25100000<br>Latitude: -15.9225<br>Longitude: -50.1723]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>98</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>25100000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-15.9225</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.1723</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.1723,-15.9225,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BARRA DO MONJOLO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 98<br>Tipo: PLU<br>C贸digo: 1750000<br>Latitude: -17.7322<br>Longitude: -50.1808]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>98</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1750000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-17.7322</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.1808</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.1808,-17.7322,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FAZENDA PACI脢NCIA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 98<br>Tipo: FLU<br>C贸digo: 25090000<br>Latitude: -15.9149<br>Longitude: -50.1281]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>98</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>25090000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-15.9149</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.1281</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.1281,-15.9149,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FAZENDA SANTA MARIA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 98<br>Tipo: FLU<br>C贸digo: 60772000<br>Latitude: -17.9811<br>Longitude: -50.2475]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>98</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>60772000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-17.9811</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.2475</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.2475,-17.9811,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JARAGU脕</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 98<br>Tipo: PLU<br>C贸digo: 1549003<br>Latitude: -15.7242<br>Longitude: -49.3189]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>98</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1549003</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-15.7242</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-49.3189</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-49.3189,-15.7242,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MAURIL脗NDIA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 98<br>Tipo: PLU / FLU<br>C贸digo: 1850003 / 60798000<br>Latitude: -17.9744<br>Longitude: -50.3377]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>98</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU / FLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1850003 / 60798000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-17.9744</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.3377</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.3377,-17.9744,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PONTE MEIA PONTE</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 98<br>Tipo: PLU / FLU<br>C贸digo: 1849016 / 60680000<br>Latitude: -18.3389<br>Longitude: -49.6108]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>98</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU / FLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1849016 / 60680000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-18.3389</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-49.6108</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-49.6108,-18.3389,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PONTE RODAGEM</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 98<br>Tipo: PLU<br>C贸digo: 1750004<br>Latitude: -17.3253<br>Longitude: -50.6819]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>98</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1750004</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-17.3253</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.6819</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.6819,-17.3253,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>URUANA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 98<br>Tipo: PLU / FLU<br>C贸digo: 1549009 / 20200000<br>Latitude: -15.4965<br>Longitude: -49.693]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>98</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU / FLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1549009 / 20200000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-15.4965</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-49.693</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-49.693,-15.4965,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

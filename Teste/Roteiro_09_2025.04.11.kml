@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Roteiro 09</name>
+    <description/>
+    <Style id="estilo-completo">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Roteiro 09</name>
+      <Placemark>
+        <name>BRIT脗NIA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 9<br>Tipo: PLU<br>C贸digo: 1551000<br>Latitude: -15.2468<br>Longitude: -51.1641]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>9</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1551000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-15.2468</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-51.1641</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-51.1641,-15.2468,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DUERE</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 9<br>Tipo: PLU<br>C贸digo: 1149000<br>Latitude: -11.3379<br>Longitude: -49.2596]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>9</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1149000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-11.3379</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-49.2596</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-49.2596,-11.3379,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FAZENDA 脕GUA LIMPA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 9<br>Tipo: FLU<br>C贸digo: 25140000<br>Latitude: -15.3625<br>Longitude: -51.1756]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>9</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>25140000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-15.3625</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-51.1756</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-51.1756,-15.3625,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GOVERNADOR LEONINO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 9<br>Tipo: PLU<br>C贸digo: 1450002<br>Latitude: -14.0972<br>Longitude: -50.3328]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>9</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1450002</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-14.0972</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.3328</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.3328,-14.0972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JUSANTE RIO PINTADO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 9<br>Tipo: FLU<br>C贸digo: 25800000<br>Latitude: -13.5614<br>Longitude: -50.4011]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>9</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>25800000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-13.5614</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.4011</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.4011,-13.5614,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PONTE RIO DUER脡</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 9<br>Tipo: FLU<br>C贸digo: 26790000<br>Latitude: -11.3167<br>Longitude: -49.2667]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>9</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>26790000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-11.3167</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-49.2667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-49.2667,-11.3167,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PRAIA ALTA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 9<br>Tipo: PLU<br>C贸digo: 1249004<br>Latitude: -12.4181<br>Longitude: -49.59]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>9</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1249004</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-12.4181</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-49.59</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-49.59,-12.4181,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RIO CRIX脕S A脟U</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 9<br>Tipo: FLU<br>C贸digo: 25750000<br>Latitude: -13.8986<br>Longitude: -49.9514]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>9</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>25750000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-13.8986</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-49.9514</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-49.9514,-13.8986,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RIO PINTADO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 9<br>Tipo: PLU<br>C贸digo: 1350001<br>Latitude: -13.426<br>Longitude: -50.185]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>9</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1350001</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-13.426</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.185</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.185,-13.426,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SANTA F脡</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 9<br>Tipo: PLU<br>C贸digo: 1551003<br>Latitude: -15.7672<br>Longitude: -51.1044]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>9</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1551003</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-15.7672</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-51.1044</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-51.1044,-15.7672,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SANTO ANT脭NIO DO LEVERGER</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 9<br>Tipo: PLU<br>C贸digo: 1250001<br>Latitude: -12.2916<br>Longitude: -50.963]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>9</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1250001</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-12.2916</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.963</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.963,-12.2916,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>S脙O F脡LIX DO ARAGUAIA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 9<br>Tipo: PLU<br>C贸digo: 1150001<br>Latitude: -11.6193<br>Longitude: -50.663]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>9</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1150001</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-11.6193</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.663</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.663,-11.6193,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>S脙O MIGUEL DO ARAGUAIA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 9<br>Tipo: PLU<br>C贸digo: 1350002<br>Latitude: -13.3286<br>Longitude: -50.1994]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>9</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1350002</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-13.3286</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.1994</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.1994,-13.3286,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TRECHO M脡DIO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 9<br>Tipo: PLU<br>C贸digo: 1351000<br>Latitude: -14.0881<br>Longitude: -51.6989]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>9</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1351000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-14.0881</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-51.6989</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-51.6989,-14.0881,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

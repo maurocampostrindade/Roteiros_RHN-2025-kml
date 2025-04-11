@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Roteiro 15</name>
+    <description/>
+    <Style id="estilo-completo">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Roteiro 15</name>
+      <Placemark>
+        <name>ALTO RIO VERDE</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 15<br>Tipo: PLU<br>C贸digo: 1953000<br>Latitude: -19.3769<br>Longitude: -53.5697]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>15</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1953000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-19.3769</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-53.5697</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-53.5697,-19.3769,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ANT脭NIO JO脙O</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 15<br>Tipo: PLU<br>C贸digo: 2255002<br>Latitude: -22.1881<br>Longitude: -55.9436]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>15</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>2255002</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-22.1881</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-55.9436</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-55.9436,-22.1881,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AQUIDAUANA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 15<br>Tipo: FLU<br>C贸digo: 66945000<br>Latitude: -20.4781<br>Longitude: -55.8014]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>15</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>66945000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-20.4781</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-55.8014</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-55.8014,-20.4781,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BELA VISTA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 15<br>Tipo: PLU<br>C贸digo: 2256001<br>Latitude: -22.11<br>Longitude: -56.5275]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>15</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>2256001</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-22.11</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-56.5275</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-56.5275,-22.11,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CARACOL</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 15<br>Tipo: PLU<br>C贸digo: 2257000<br>Latitude: -22.0142<br>Longitude: -57.0322]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>15</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>2257000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-22.0142</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-57.0322</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-57.0322,-22.0142,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ESTRADA MT-738</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 15<br>Tipo: PLU / FLU<br>C贸digo: 2056003 / 66900000<br>Latitude: -20.762<br>Longitude: -56.095]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>15</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU / FLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>2056003 / 66900000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-20.762</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-56.095</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-56.095,-20.762,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FAZENDA ESPERAN脟A</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 15<br>Tipo: FLU<br>C贸digo: 67176000<br>Latitude: -21.9697<br>Longitude: -57.3772]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>15</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>67176000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-21.9697</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-57.3772</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-57.3772,-21.9697,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ITAUM</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 15<br>Tipo: PLU<br>C贸digo: 2255004<br>Latitude: -22.0861<br>Longitude: -55.3531]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>15</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>2255004</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-22.0861</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-55.3531</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-55.3531,-22.0861,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MARAB脕</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 15<br>Tipo: PLU<br>C贸digo: 2157005<br>Latitude: -21.6889<br>Longitude: -57.3597]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>15</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>2157005</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-21.6889</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-57.3597</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-57.3597,-21.6889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PALMEIRAS</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 15<br>Tipo: PLU / FLU<br>C贸digo: 2055002 / 66941000<br>Latitude: -20.4489<br>Longitude: -55.4308]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>15</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU / FLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>2055002 / 66941000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-20.4489</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-55.4308</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-55.4308,-20.4489,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PONTE DO GREGO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 15<br>Tipo: FLU<br>C贸digo: 66926000<br>Latitude: -20.1558<br>Longitude: -55.09]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>15</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>66926000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-20.1558</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-55.09</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-55.09,-20.1558,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PORTO DE PEDRAS</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 15<br>Tipo: PLU / FLU<br>C贸digo: 1953004 / 63001200<br>Latitude: -19.055<br>Longitude: -53.015]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>15</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU / FLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1953004 / 63001200</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-19.055</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-53.015</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-53.015,-19.055,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PORTO MURTINHO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 15<br>Tipo: PLU<br>C贸digo: 2157004<br>Latitude: -21.7014<br>Longitude: -57.891]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>15</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>2157004</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-21.7014</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-57.891</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-57.891,-21.7014,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>S脙O CARLOS</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 15<br>Tipo: PLU<br>C贸digo: 2257001<br>Latitude: -22.2228<br>Longitude: -57.3047]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>15</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>2257001</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-22.2228</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-57.3047</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-57.3047,-22.2228,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

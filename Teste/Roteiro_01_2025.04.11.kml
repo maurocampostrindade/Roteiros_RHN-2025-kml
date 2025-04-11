@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Roteiro 01</name>
+    <description/>
+    <Style id="estilo-completo">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Roteiro 01</name>
+      <Placemark>
+        <name>ILHA CAMARGO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 1<br>Tipo: PLU<br>C贸digo: 1756000<br>Latitude: -17.057<br>Longitude: -56.586]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>1</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1756000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-17.057</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-56.586</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-56.586,-17.057,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NOSSA SRA. DO LIVRAMENTO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 1<br>Tipo: PLU<br>C贸digo: 1556001<br>Latitude: -15.7739<br>Longitude: -56.3497]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>1</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1556001</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-15.7739</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-56.3497</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-56.3497,-15.7739,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POCON脡</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 1<br>Tipo: PLU<br>C贸digo: 1656002<br>Latitude: -16.2853<br>Longitude: -56.5949]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>1</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1656002</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-16.2853</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-56.5949</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-56.5949,-16.2853,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PORTO CERCADO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 1<br>Tipo: PLU<br>C贸digo: 1656001<br>Latitude: -16.5119<br>Longitude: -56.3756]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>1</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1656001</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-16.5119</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-56.3756</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-56.3756,-16.5119,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PORTO DO ALEGRE</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 1<br>Tipo: PLU<br>C贸digo: 1756003<br>Latitude: -17.624<br>Longitude: -56.965]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>1</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1756003</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-17.624</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-56.965</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-56.965,-17.624,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POUSADA TAIAM脙</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 1<br>Tipo: PLU / FLU<br>C贸digo: 1756004 / 66710000<br>Latitude: -17.3683<br>Longitude: -56.7725]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>1</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU / FLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1756004 / 66710000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-17.3683</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-56.7725</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-56.7725,-17.3683,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>S脙O JER脭NIMO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 1<br>Tipo: PLU / FLU<br>C贸digo: 1755003 / 66600000<br>Latitude: -17.2017<br>Longitude: -55.9919]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>1</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU / FLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1755003 / 66600000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-17.2017</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-55.9919</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-55.9919,-17.2017,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>S脙O JO脙O</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 1<br>Tipo: PLU<br>C贸digo: 1656004<br>Latitude: -16.9442<br>Longitude: -56.6319]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>1</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1656004</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-16.9442</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-56.6319</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-56.6319,-16.9442,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>S脙O JOS脡 DO BORIR脡U</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 1<br>Tipo: PLU / FLU<br>C贸digo: 1656003 / 66470000<br>Latitude: -16.9211<br>Longitude: -56.2236]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>1</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU / FLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1656003 / 66470000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-16.9211</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-56.2236</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-56.2236,-16.9211,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>S脙O JOS脡 DO PIQUIRI</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 1<br>Tipo: PLU / FLU<br>C贸digo: 1756001 / 66650000<br>Latitude: -17.291<br>Longitude: -56.385]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>1</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU / FLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1756001 / 66650000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-17.291</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-56.385</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-56.385,-17.291,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

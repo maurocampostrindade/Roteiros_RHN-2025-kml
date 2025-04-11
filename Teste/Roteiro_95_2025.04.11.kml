@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Roteiro 95</name>
+    <description/>
+    <Style id="estilo-completo">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Roteiro 95</name>
+      <Placemark>
+        <name>CAPTA脟脙O DA SANEAGO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 95<br>Tipo: FLU<br>C贸digo: 60478480<br>Latitude: -16.0647<br>Longitude: -47.9425]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>95</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>60478480</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-16.0647</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-47.9425</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-47.9425,-16.0647,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FAZENDA ELDORADO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 95<br>Tipo: FLU<br>C贸digo: 42430000<br>Latitude: -15.6837<br>Longitude: -47.1259]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>95</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>42430000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-15.6837</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-47.1259</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-47.1259,-15.6837,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FAZENDA ESP脥RITO SANTO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 95<br>Tipo: FLU<br>C贸digo: 21210000<br>Latitude: -15.3222<br>Longitude: -47.3817]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>95</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>21210000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-15.3222</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-47.3817</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-47.3817,-15.3222,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FAZENDA LOBEIRA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 95<br>Tipo: PLU / FLU<br>C贸digo: 1148000 / 22250000<br>Latitude: -11.5314<br>Longitude: -48.2947]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>95</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU / FLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1148000 / 22250000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-11.5314</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.2947</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-48.2947,-11.5314,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FLORES DE GOI脕S</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 95<br>Tipo: PLU<br>C贸digo: 1447001<br>Latitude: -14.4566<br>Longitude: -47.0462]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>95</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1447001</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-14.4566</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-47.0462</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-47.0462,-14.4566,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JUSANTE DE GOI脗NIA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 95<br>Tipo: FLU<br>C贸digo: 60650000<br>Latitude: -16.6811<br>Longitude: -49.1964]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>95</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>60650000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-16.6811</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-49.1964</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-49.1964,-16.6811,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LAGOA FORMOSA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 95<br>Tipo: FLU<br>C贸digo: 42452050<br>Latitude: -15.9211<br>Longitude: -47.02]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>95</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>42452050</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-15.9211</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-47.02</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-47.02,-15.9211,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MONTANTE DE GOI脗NIA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 95<br>Tipo: FLU<br>C贸digo: 60640000<br>Latitude: -16.6136<br>Longitude: -49.2797]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>95</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>60640000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-16.6136</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-49.2797</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-49.2797,-16.6136,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NOVA ROMA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 95<br>Tipo: PLU / FLU<br>C贸digo: 1346001 / 21500000<br>Latitude: -13.7425<br>Longitude: -46.8775]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>95</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU / FLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1346001 / 21500000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-13.7425</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-46.8775</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-46.8775,-13.7425,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PIPIRIPAU</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 95<br>Tipo: FLU<br>C贸digo: 60472235<br>Latitude: -15.6144<br>Longitude: -47.5456]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>95</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>60472235</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-15.6144</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-47.5456</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-47.5456,-15.6144,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PORTO JER脭NIMO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 95<br>Tipo: PLU<br>C贸digo: 1147004<br>Latitude: -11.7586<br>Longitude: -47.8364]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>95</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1147004</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-11.7586</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-47.8364</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-47.8364,-11.7586,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RIBEIR脙O FORMOSA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 95<br>Tipo: FLU<br>C贸digo: 42452080<br>Latitude: -15.9514<br>Longitude: -47.1181]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>95</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>42452080</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-15.9514</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-47.1181</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-47.1181,-15.9514,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

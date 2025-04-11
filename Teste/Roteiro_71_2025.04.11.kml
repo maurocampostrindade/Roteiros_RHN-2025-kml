@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Roteiro 71</name>
+    <description/>
+    <Style id="estilo-completo">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Roteiro 71</name>
+      <Placemark>
+        <name>ABREUL脗NDIA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 71<br>Tipo: PLU<br>C贸digo: 949000<br>Latitude: -9.6176<br>Longitude: -49.1557]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>71</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>949000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-9.6176</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-49.1557</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-49.1557,-9.6176,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BARREIRA DO CAMPO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 71<br>Tipo: PLU<br>C贸digo: 950001<br>Latitude: -9.2275<br>Longitude: -50.2108]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>71</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>950001</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-9.2275</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.2108</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.2108,-9.2275,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BOA VISTA DO ARAGUAIA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 71<br>Tipo: PLU<br>C贸digo: 749001<br>Latitude: -7.3231<br>Longitude: -49.2242]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>71</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>749001</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-7.3231</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-49.2242</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-49.2242,-7.3231,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BOM JESUS DO TOCANTINS</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 71<br>Tipo: PLU<br>C贸digo: 848006<br>Latitude: -8.97<br>Longitude: -48.1578]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>71</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>848006</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-8.97</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.1578</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-48.1578,-8.97,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CANGUSSU</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 71<br>Tipo: PLU<br>C贸digo: 950002<br>Latitude: -9.9703<br>Longitude: -49.9936]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>71</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>950002</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-9.9703</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-49.9936</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-49.9936,-9.9703,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CASEARA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 71<br>Tipo: PLU<br>C贸digo: 950000<br>Latitude: -9.27<br>Longitude: -49.9589]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>71</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>950000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-9.27</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-49.9589</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-49.9589,-9.27,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CENTEN脕RIO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 71<br>Tipo: PLU<br>C贸digo: 847004<br>Latitude: -8.9642<br>Longitude: -47.3339]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>71</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>847004</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-8.9642</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-47.3339</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-47.3339,-8.9642,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>COLINAS DO TOCANTINS</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 71<br>Tipo: PLU<br>C贸digo: 848000<br>Latitude: -8.0528<br>Longitude: -48.4817]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>71</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>848000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-8.0528</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.4817</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-48.4817,-8.0528,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>COL脭NIA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 71<br>Tipo: PLU<br>C贸digo: 748001<br>Latitude: -7.8778<br>Longitude: -48.8786]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>71</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>748001</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-7.8778</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.8786</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-48.8786,-7.8778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DOIS IRM脙OS DO TOCANTINS</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 71<br>Tipo: PLU<br>C贸digo: 949001<br>Latitude: -9.2572<br>Longitude: -49.0642]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>71</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>949001</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-9.2572</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-49.0642</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-49.0642,-9.2572,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FAZENDA PRIMAVERA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 71<br>Tipo: PLU<br>C贸digo: 748002<br>Latitude: -7.5607<br>Longitude: -48.4227]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>71</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>748002</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-7.5607</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.4227</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-48.4227,-7.5607,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FAZENDA STA. MARTA DO INAJ脕</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 71<br>Tipo: PLU<br>C贸digo: 850001<br>Latitude: -8.6603<br>Longitude: -50.4442]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>71</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>850001</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-8.6603</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.4442</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.4442,-8.6603,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GUARA脥</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 71<br>Tipo: PLU<br>C贸digo: 848001<br>Latitude: -8.8636<br>Longitude: -48.5064]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>71</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>848001</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-8.8636</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.5064</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-48.5064,-8.8636,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ITAPOR脙 DO TOCANTINS</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 71<br>Tipo: PLU<br>C贸digo: 848002<br>Latitude: -8.5739<br>Longitude: -48.6903]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>71</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>848002</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-8.5739</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.6903</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-48.6903,-8.5739,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LAGOA DA CONFUS脙O</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 71<br>Tipo: PLU<br>C贸digo: 1049003<br>Latitude: -10.7823<br>Longitude: -49.6111]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>71</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1049003</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-10.7823</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-49.6111</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-49.6111,-10.7823,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LIZARDA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 71<br>Tipo: PLU<br>C贸digo: 946003<br>Latitude: -9.5995<br>Longitude: -46.6766]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>71</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>946003</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-9.5995</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-46.6766</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-46.6766,-9.5995,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MANSINHA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 71<br>Tipo: PLU<br>C贸digo: 947001<br>Latitude: -9.4592<br>Longitude: -47.326]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>71</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>947001</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-9.4592</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-47.326</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-47.326,-9.4592,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MARIAN脫POLIS</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 71<br>Tipo: PLU<br>C贸digo: 949003<br>Latitude: -9.8011<br>Longitude: -49.6564]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>71</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>949003</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-9.8011</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-49.6564</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-49.6564,-9.8011,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PALMEIRANTE</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 71<br>Tipo: PLU<br>C贸digo: 747009<br>Latitude: -7.8594<br>Longitude: -47.9289]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>71</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>747009</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-7.8594</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-47.9289</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-47.9289,-7.8594,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARA脥SO DO TOCANTINS</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 71<br>Tipo: PLU<br>C贸digo: 1048001<br>Latitude: -10.1658<br>Longitude: -48.8909]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>71</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1048001</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-10.1658</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.8909</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-48.8909,-10.1658,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PIUM</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 71<br>Tipo: PLU<br>C贸digo: 1049001<br>Latitude: -10.4411<br>Longitude: -49.1792]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>71</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1049001</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-10.4411</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-49.1792</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-49.1792,-10.4411,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PR脫XIMO BARREIRA DA CRUZ</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 71<br>Tipo: PLU<br>C贸digo: 1049002<br>Latitude: -10.7344<br>Longitude: -49.8564]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>71</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1049002</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-10.7344</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-49.8564</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-49.8564,-10.7344,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RECURSOL脗NDIA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 71<br>Tipo: PLU<br>C贸digo: 847003<br>Latitude: -8.7342<br>Longitude: -47.2421]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>71</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>847003</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-8.7342</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-47.2421</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-47.2421,-8.7342,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>REDEN脟脙O</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 71<br>Tipo: PLU<br>C贸digo: 850000<br>Latitude: -8.0575<br>Longitude: -50.0028]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>71</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>850000</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-8.0575</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.0028</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.0028,-8.0575,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TAQUARUSSU DO PORTO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description><![CDATA[Roteiro: 71<br>Tipo: PLU<br>C贸digo: 1048005<br>Latitude: -10.3133<br>Longitude: -48.1625]]></description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>71</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="C骴igo">
+            <value>1048005</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-10.3133</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.1625</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-48.1625,-10.3133,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
