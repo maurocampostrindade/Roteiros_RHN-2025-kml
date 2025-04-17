@@ -1,0 +1,472 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Roteiro 12</name>
+    <description/>
+    <Style id="estilo-completo">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Roteiro 12</name>
+      <Placemark>
+        <name>APORÉ</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1852000.0&lt;br&gt;
+Tipo: PLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>12</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="Tipo_Comp">
+            <value>PT</value>
+          </Data>
+          <Data name="Codigo">
+            <value>1852000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-18.967</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-51.9278</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-51.9278,-18.967,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BARRA DO PRATA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 60960000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>12</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Tipo_Comp">
+            <value>FD</value>
+          </Data>
+          <Data name="Codigo">
+            <value>60960000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-18.6895</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-52.5947</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-52.5947,-18.6895,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CACHOEIRA ALTA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1851000.0&lt;br&gt;
+Tipo: PLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>12</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="Tipo_Comp">
+            <value>P</value>
+          </Data>
+          <Data name="Codigo">
+            <value>1851000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-18.9097</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.8503</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.8503,-18.9097,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CAMPO ALEGRE</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 60940000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>12</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Tipo_Comp">
+            <value>P_FDS</value>
+          </Data>
+          <Data name="Codigo">
+            <value>60940000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-18.516</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-52.0962</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-52.0962,-18.516,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CANASTRA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 60950000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>12</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Tipo_Comp">
+            <value>P_FD</value>
+          </Data>
+          <Data name="Codigo">
+            <value>60950000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-19.1003</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-51.1493</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-51.1493,-19.1003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CASSILÂNDIA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 60968000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>12</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Tipo_Comp">
+            <value>FD</value>
+          </Data>
+          <Data name="Codigo">
+            <value>60968000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-19.1075</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-51.7208</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-51.7208,-19.1075,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FAZENDA ALIANÇA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 60810000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>12</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Tipo_Comp">
+            <value>P_FD</value>
+          </Data>
+          <Data name="Codigo">
+            <value>60810000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-18.1047</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.0314</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.0314,-18.1047,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FAZENDA FORMOSO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1852001.0 / 60930000.0&lt;br&gt;
+Tipo: PLU / FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>12</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU / FLU</value>
+          </Data>
+          <Data name="Tipo_Comp">
+            <value>P_FD</value>
+          </Data>
+          <Data name="Codigo">
+            <value>1852001.0 / 60930000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-18.4067</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-52.5325</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-52.5325,-18.4067,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FAZENDA PINDORAMA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1951003.0&lt;br&gt;
+Tipo: PLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>12</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="Tipo_Comp">
+            <value>P</value>
+          </Data>
+          <Data name="Codigo">
+            <value>1951003.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-19.3908</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-51.6089</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-51.6089,-19.3908,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INDAIÁ GRANDE</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 63001600.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>12</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Tipo_Comp">
+            <value>P_FD</value>
+          </Data>
+          <Data name="Codigo">
+            <value>63001600.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-18.9857</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-52.5923</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-52.5923,-18.9857,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ITAJÁ</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1951001.0 / 60970000.0&lt;br&gt;
+Tipo: PLU / FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>12</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU / FLU</value>
+          </Data>
+          <Data name="Tipo_Comp">
+            <value>P_FDS</value>
+          </Data>
+          <Data name="Codigo">
+            <value>1951001.0 / 60970000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-19.1397</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-51.5336</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-51.5336,-19.1397,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ITARUMÃ</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1851002.0&lt;br&gt;
+Tipo: PLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>12</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="Tipo_Comp">
+            <value>P</value>
+          </Data>
+          <Data name="Codigo">
+            <value>1851002.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-18.7647</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-51.3472</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-51.3472,-18.7647,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PONTE RIO VERDÃO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 60790000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>12</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Tipo_Comp">
+            <value>P_FD</value>
+          </Data>
+          <Data name="Codigo">
+            <value>60790000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-17.5414</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.5561</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.5561,-17.5414,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PORTO GALEANO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 2052006.0 / 63003100.0&lt;br&gt;
+Tipo: PLU / FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>12</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU / FLU</value>
+          </Data>
+          <Data name="Tipo_Comp">
+            <value>P_FDS</value>
+          </Data>
+          <Data name="Codigo">
+            <value>2052006.0 / 63003100.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-20.0944</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-52.1497</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-52.1497,-20.0944,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>QUIRINÓPOLIS</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 60870000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>12</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Tipo_Comp">
+            <value>P_FD</value>
+          </Data>
+          <Data name="Codigo">
+            <value>60870000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-18.5014</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.5211</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.5211,-18.5014,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

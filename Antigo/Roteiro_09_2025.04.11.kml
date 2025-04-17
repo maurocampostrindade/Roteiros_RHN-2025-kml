@@ -1,0 +1,400 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Roteiro 09</name>
+    <description/>
+    <Style id="estilo-completo">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Roteiro 09</name>
+      <Placemark>
+        <name>BRITÂNIA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1551000.0&lt;br&gt;
+Tipo: PLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>9</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1551000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-15.2468</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-51.1641</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-51.1641,-15.2468,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DUERE</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1149000.0&lt;br&gt;
+Tipo: PLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>9</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1149000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-11.3379</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-49.2596</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-49.2596,-11.3379,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FAZENDA ÁGUA LIMPA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 25140000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>9</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>25140000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-15.3625</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-51.1756</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-51.1756,-15.3625,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GOVERNADOR LEONINO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1450002.0&lt;br&gt;
+Tipo: PLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>9</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1450002.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-14.0972</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.3328</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.3328,-14.0972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JUSANTE RIO PINTADO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 25800000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>9</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>25800000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-13.5614</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.4011</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.4011,-13.5614,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PONTE RIO DUERÉ</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 26790000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>9</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>26790000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-11.3167</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-49.2667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-49.2667,-11.3167,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PRAIA ALTA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 26720000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>9</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>26720000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-12.4178</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-49.5892</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-49.5892,-12.4178,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RIO CRIXÁS AÇU</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 25750000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>9</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>25750000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-13.8986</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-49.9514</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-49.9514,-13.8986,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RIO PINTADO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1350001.0&lt;br&gt;
+Tipo: PLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>9</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1350001.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-13.426</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.185</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.185,-13.426,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SANTA FÉ</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1551003.0&lt;br&gt;
+Tipo: PLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>9</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1551003.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-15.7672</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-51.1044</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-51.1044,-15.7672,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SANTO ANTÔNIO DO LEVERGER</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 26300000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>9</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>26300000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-12.2928</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.964</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.964,-12.2928,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SÃO FÉLIX DO ARAGUAIA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 26350000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>9</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>26350000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-11.6181</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.6625</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.6625,-11.6181,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SÃO MIGUEL DO ARAGUAIA</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 1350002.0&lt;br&gt;
+Tipo: PLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>9</value>
+          </Data>
+          <Data name="Tipo">
+            <value>PLU</value>
+          </Data>
+          <Data name="Código">
+            <value>1350002.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-13.3286</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-50.1994</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-50.1994,-13.3286,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TRECHO MÉDIO</name>
+        <styleUrl>#estilo-completo</styleUrl>
+        <description>Código: 26200000.0&lt;br&gt;
+Tipo: FLU&lt;br&gt;
+</description>
+        <ExtendedData>
+          <Data name="Roteiro">
+            <value>9</value>
+          </Data>
+          <Data name="Tipo">
+            <value>FLU</value>
+          </Data>
+          <Data name="Código">
+            <value>26200000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-14.0884</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-51.6987</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-51.6987,-14.0884,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
